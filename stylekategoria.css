@@ -1,0 +1,159 @@
+body {
+    margin:0 auto;
+	background-color:rgb(66, 134, 244);
+	font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+	
+	background-color:red;
+	width:auto;
+	text-align:center;
+	font-size:25px;
+	padding:5px;
+	
+}
+.nav-link{
+	color:white;
+}
+a{
+	color:white;
+}
+.img1{
+	margin: 0 auto;
+}
+
+#opisKategorii{
+	
+	background-color: #1E88E5 ;
+	color:white;
+}
+.card-body{
+	background-color:grey;
+}
+.card-text{
+	text-align: center;
+}
+/*alerts messages*/
+.alert-success{
+	text-align:center;
+}
+.alert-danger{
+	text-align:center;
+}
+#warunki{
+	background-color:rgb(29, 93, 196);
+	color:white;
+}
+#cena{
+	
+	background-color: #1E88E5 ;
+	color:white;
+	
+}
+#kontakt{
+	
+	background-color:rgb(29, 93, 196);
+	color:white;
+	
+}
+#kontaktBE{
+	
+	background-color:#1E88E5 ;
+	color:white;
+	
+}
+#jakaPrzyczepa{
+	background-color:rgb(29, 93, 196);
+	color:white;
+}
+#foot1{
+	height:50px;
+	background-color:rgb(7, 0, 0);
+    color:white;	
+}
+#foot2{
+	height:50px;
+	background-color:rgb(7, 0, 0);
+    color:white;	
+}
+.col-md-6{
+	padding:50px;
+}
+.col-md-4{
+	padding:50px;
+}
+#banner{
+  background-color:#b0aac2;
+}
+#kontakt0{
+	color:white;
+	font-weight: bold;
+	font-size:20px;
+	background-color:#e62739;
+	height:auto;
+	text-align:left;
+	padding:2%;
+    	
+}
+#kontakt1{
+	color:white;
+	font-weight: bold;
+	font-size:20px;
+	background-color:#e62739;
+	height:auto;
+	text-align:right;
+	padding:2%;
+}
+#kontakt2{
+	color:white;
+	font-weight:bold;
+	background-color:black;
+	height:auto;
+	font-weight: bold;
+}
+/*contact form*/
+#form1{
+	border:1px solid rgb(99, 90, 231);
+	border-radius:25px;
+	background-color:rgb(124, 122, 153);
+	padding:1%;
+	margin-top:1%;	
+}
+#form2{
+	margin-top:5%;
+	color:white;
+	text-align:left;
+}
+#danefirmy{
+	margin-top:1%;
+	color:white;
+	text-align:center;
+}
+/* social media */
+/* Facebook */
+.fa{
+  padding: 20px;
+  font-size:50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook{
+    background: #3B5998;
+		color: white;
+		width:100%;
+		height:100px;
+}
+.fa-youtube{
+    background: rgb(221, 30, 23);
+		color: white;
+		width:100%;
+		height:100px;	
+}
+.fa-facebook-f:before, .fa-facebook:before{
+	font-size:50px;
+}
+.fa-youtube-f:before, .fa-youtube:before{
+	font-size:50px;
+}
