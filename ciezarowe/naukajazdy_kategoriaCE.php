@@ -89,7 +89,7 @@ include '../header2.php';
           <div class="card-body">
             <h5 class="card-title">Przewóz rzeczy i osób</h5>
             <p class="card-text"><b style="color:black;">U nas możesz wykonać szkolenie na przewóz rzeczy i osób.</b></p>
-            <a href="#" class="btn btn-primary">wiecej info...</a>
+            <a href="szkolenia_przewozy_rzeczy_osob.php" class="btn btn-primary">wiecej info...</a>
           </div>
         </div>
       </div>

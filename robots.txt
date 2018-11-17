@@ -1,0 +1,147 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.oskwiraz.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/kategoria-a,a1.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/nauka_jazdy_motor/kategoria_A1.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>http://www.oskwiraz.pl/nauka_jazdy_motor/kategoria_A2.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/nauka_jazdy_motor/kategoria_A.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/kategoria-c,c+e.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/ciezarowe/naukajazdy_kategoriaC.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.oskwiraz.pl/ciezarowe/naukajazdy_kategoriaCE.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>http://www.oskwiraz.pl/ciezarowe/szkolenia_przewozy_rzeczy_osob.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>http://www.oskwiraz.pl/kategoria-b.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>http://www.oskwiraz.pl/kategoria-b+e.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>http://www.oskwiraz.pl/kontakt.php</loc>
+
+      <lastmod>2018-11-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+</urlset> 

@@ -58,7 +58,7 @@
           <h4>Zaczynam przygodę z motorami</h4>
         </div>
         <div class="fotopakietu">
-          <a href="nauka_jazdy_motor/kategoria_A1.html"><img src="./images/kategoriaA1_swidnica.png" alt="nauka_jazdy_motorem_swidnica_A1" style="width:100%;height:300px"
+          <a href="nauka_jazdy_motor/kategoria_A1.php"><img src="./images/kategoriaA1_swidnica.png" alt="nauka_jazdy_motorem_swidnica_A1" style="width:100%;height:300px"
               class="imgopacity"></a>
         </div>
       </div>
@@ -68,7 +68,7 @@
           <h4>Nauka jazdy na motory, kategoria A2</h4>
         </div>
         <div class="fotopakietu">
-          <a href="nauka_jazdy_motor/kategoria_A2.html"><img src="./images/kategoriaA2_swidnica.jpg" style="width:100%;height:300px" class="imgopacity"></a>
+          <a href="nauka_jazdy_motor/kategoria_A2.php"><img src="./images/kategoriaA2_swidnica.jpg" style="width:100%;height:300px" class="imgopacity"></a>
         </div>
       </div>
   
@@ -78,7 +78,7 @@
           <h4>Nauka jazdy na motor, kategorii A</h4>
         </div>
         <div class="fotopakietu">
-          <a href="nauka_jazdy_motor/kategoria_A.html"><img src="./images/kategoriaA_swidnica.png" style="width:100%;height:300px" class="imgopacity"></a>
+          <a href="nauka_jazdy_motor/kategoria_A.php"><img src="./images/kategoriaA_swidnica.png" style="width:100%;height:300px" class="imgopacity"></a>
         </div>
       </div>
     </div>

@@ -103,7 +103,7 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
             <p class="card-text">szukasz odskoczni od normalności?<br>
             lubisz się wyróżniać?<br>
           a może po prostu zawsze chciałeś jeździć motorem?</p>
-            <a href="#" class="btn btn-danger">więcej info...</a>
+            <a href="../kategoria-a,a1.php" class="btn btn-danger">więcej info...</a>
           </div>
         </div>
 

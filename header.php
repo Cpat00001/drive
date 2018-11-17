@@ -26,9 +26,9 @@ echo '
   <div class="container-fluid" id="socialsection">
     <div class="row">
       <div class="col-md-3">Bądź na bieżąco z wydarzeniami.</br> Obserwuj nas na socialmedia</div>
-	  <div class="col-md-2" style="font-size:40px;"><a href="#" class="fa fa-facebook"></a></div>
-	  <div class="col-md-2" style="font-size:40px;"><a href="#" class="fa fa-twitter"></a></div>
-	  <div class="col-md-2" style="font-size:40px;"><a href="#" class="fa fa-youtube"></a></div>
+	  <div class="col-md-2" style="font-size:40px;"><a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook"></a></div>
+	  <div class="col-md-2" style="font-size:40px;"><a href="https://twitter.com/wiraz_moto" class="fa fa-twitter"></a></div>
+	  <div class="col-md-2" style="font-size:40px;"><a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube"></a></div>
 	  <div class="col-md-3">do zobaczenia na kursie...</div>
     </div>
   </div>

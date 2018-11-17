@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- end of social media links-->
 </head>
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie()">
 <?php
 include 'header.php';
 ?>
@@ -173,9 +173,32 @@ include 'header.php';
 <?php
 include 'footer.php';
 ?>
+<!--JS files cookies and popup banner-->
+<script src="jswiraz.js"></script>
+<script src="cookie.js"></script>
 
-<script src="jswiraz.js">
+<!--welcoming banner-->
+	<div class="alert alert-primary" id="welcome">
+		<div class="banner1">
+					<p>Fajnie,że nas ponownie odwiedzasz<br>
+						Mamy nadzieję,że na stronie znajdziesz,co oczekujesz.
+						Jeśli brakuje jakiejkolwiek informacji,która Cię interesuje daj nam znać na email motowiraz@gmail.com</p><br>
+						Obserwuj nas na Facebooku <a href="https://www.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/"><button class="btn btn-primary">WirazFanpage</button></a>
+						</p>
+						<a class="btn btn-danger btn-lg" href="#" role="button" id="btn1" onclick="hideWelcome()">OK,dzieki za info</a>			
+		</div>
+</div>
+<!--cookie banner-->
+	<div class="alert alert-primary" id="cookieBanner">
+		<div class="banner1">
+					<p>Nasza strona uzywa plików Cookie.<br>
+						Ciasteczka cookie wykorzystywane sa w celach statystycznych i poprawienia jakosci naszej strony www, celem
+						dostarczenia
+						jak najlepszej wartosci i tresci odwiedzajacym.</p>
+					<a class="btn btn-danger btn-lg" href="#" role="button" id="btn1" onclick="hideBanner()">OK,akceptuje</a>
+		</div>
+</div>
 
-</script>
+<!--the end of pop up banners-->
 </body>
 </html>
