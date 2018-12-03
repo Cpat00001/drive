@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <html>
 <head>
 <title>Nauka jazdy Wiraz Swidnica Strzegom Dzierzoniow. Prawo jazdy kategorii A,A2,A1,B,BE,C,CE.</title>
@@ -53,11 +54,11 @@ include 'header.php';
   
   </div>
   <div id="section2" class="container-fluid">
-    <h2>Kategoria A,A2,A1 - Nauka Jazdy Motorem Świdnica,Strzegom,</br>Dzierżoniów.</h2>
+    <h2>Kategoria A,A2,A1 - Nauka Jazdy Motorem Świdnica,Strzegom,<br>Dzierżoniów.</h2>
     <img src="images/naukamotor1.jpg" alt="nauka jazdy motorem swidnica" style="width:30%;height:350px;margin:1%;" id="img2">
     <p>Zapraszamy na kursy motocyklowe w Świdnicy.
 			Prawo jazdy na motor Świdnica na maszynach jak egzaminacyjne.
-			<b>Z nami przygode motocyklowa mozesz zaczac na malej Yamaha125</b></br>
+			<b>Z nami przygode motocyklowa mozesz zaczac na malej Yamaha125</b><br>
 			<h4>Jesli interesuje Cie prawo jazdy no motor kategorii A2 i A posiadamy Yamahy XJ6 z ABS do 500cm i powyzej 500cm.</h4><br>
 			<b> Jezdzisz na maszynach jak egzaminacyjne, zatem podchodzisz do egzaminu bez stresu, znasz sprzet doskonale</b>
 

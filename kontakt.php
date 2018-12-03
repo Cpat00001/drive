@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
   <title>Nauka Jazdy Wiraż Świdnica Kontakt</title>
   <meta charset="UTF-8">
@@ -23,10 +24,10 @@ include 'header3.php';
     <div class="row">
       <div class="col-md-2"></div>
         <div class="col-md-4">
-          <a href="#" class="fa fa-facebook"></a>
+          <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook"></a>
         </div>
         <div class="col-md-4">
-        <a href="#" class="fa fa-youtube"></a>
+        <a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube"></a>
         </div>
       <div class="col-md-2"></div>
     </div>
@@ -38,15 +39,15 @@ include 'header3.php';
         <div cls="col-md-10">
          
           <p><b>Kontakt do Szkoły i Szybka informacja oraz odpowiedź na pytania pod numerem:</b><br>
-          <h5>691 806 913</h5>
+          <h3>691 806 913</h3>
           <b>Kontakt w godz 7 - 20. Prosimy uszanować te godziny.Dziękujemy</b></p>
        </div>
       <div cls="col-md-10">
-      <p> W celu ustalenia spraw biezacych,wystawienia dokumentow,zaswiadczenia oraz inne administracyjne zapytania prosimy
-      kierowac pod numer tel 691 806 913.<br><br>
+      <p> W celu ustalenia spraw bieżących,wystawienia dokumentów,zaświadczenia oraz inne administracyjne zapytania prosimy
+      kierowac pod numer tel <b>691 806 913</b>.<br><br>
       
-      <b>Sala wykladowa i testy prowadzimy w Domu Handlowym "Swidniczanin" ul Spoldzielcza 14, na II pietrze.
-      Prosimy o kontakt telefoniczny wczesniej - nie zawsze ktos jest na miejscu.</b></p>
+      <b>Sala wykladowa i testy prowadzimy w Domu Handlowym "Świdniczanin" ul Spółdzielcza 14, na II pietrze.
+      Prosimy o kontakt telefoniczny wczesniej - nie zawsze ktoś jest na miejscu.</b></p>
       <div class="alert alert-primary">
         <p>Plac manewrowy na MPK Świdnica ul Inżynierska 6<br>
         W niedziele na placu jest targ.</p>
@@ -56,7 +57,7 @@ include 'header3.php';
   </div> 
   <div class="col-md-1"></div>
   <div class="col-md-5" id="form2">
-    <form>
+    <form action="#" method="POST" id="myForm1">
       <div class="form-group">
         <label for="exampleInputEmail1">Twoje imię</label>
         <input type="text" class="form-control" id="fname" aria-describedby="emailHelp" placeholder="wpisz imię...">
@@ -69,13 +70,12 @@ include 'header3.php';
       <div class="form-group">
         <label for="email">Twój email kontaktowy</label>
         <input type="text" class="form-control" id="lname" placeholder="podaj email kontaktowy">
-        <small id="emailHelp" class="form-text text-muted">Twój email,na który mamy się kontaktować</small>
       </div>
       <div class="form-group">
         <label for="email message">Jakie jest Twoje pytanie?</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="tutaj wpisz swoje pytanie..." rows="3"></textarea>
       </div>
-      <button type="submit" class="btn btn-danger">Wyślij email</button>
+      <button type="submit" class="btn btn-danger" value="Reset form" id="btn1">Wyślij email</button>
     </form>
   </div>
   <div class="col-md-1"></div>
@@ -90,7 +90,7 @@ include 'footer1.php';
   
 
 
-
+<script src="clearForm.js"></script>
   <!--Bootstrap JanaScript-->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>

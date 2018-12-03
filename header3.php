@@ -24,9 +24,10 @@ echo '
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navdropdown" data-toggle="dropdown">Motocykle</a>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="nauka_jazdy_motor/kategoria_A.php"> Kategoria A powyżej 500cm3</a>
-          <a class="dropdown-item" href="nauka_jazdy_motor/kategoria_A2.php"> Kategoria A2 do 500cm3</a>
+          <a class="dropdown-item" href="nauka_jazdy_motor/kategoria_A.php"> Kategoria A - najwyższa klasa</a>
+          <a class="dropdown-item" href="nauka_jazdy_motor/kategoria_A2.php"> Kategoria A2 - klasa średnia</a>
           <a class="dropdown-item"  href="nauka_jazdy_motor/kategoria_A1.php"> Kategoria A1 klasa 125cm3</a>
+          <a class="dropdown-item"  href="nauka_jazdy_motor/motorowery_swidnica_kategoriaAM.php"> Kategoria AM klasa motorower</a>
         </div>
       </li>
       <li class="nav-item">

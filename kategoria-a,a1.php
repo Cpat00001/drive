@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
 <title>Nauka jazdy , prawo jazdy na motory w Świdnicy,Strzegomi,Dzierżoniowie.</title>
 <!--robots - index fallow wymagany w HTML5??-->
@@ -52,7 +53,19 @@
   <!--central part of website with foto and links to subwebsites-->
   <div class="container-fluid" id="oferta">
     <div class="row">
-      <div class="col-md-4">
+     <!--moto AM motorowery-->
+          <div class="col-md-3">
+        <div class="tytulpakietu">
+          <p>Kategoria AM - motorowery, klasa do 50cm3</p>
+          <h4>Pierwsze samodzielne kilometry</h4>
+        </div>
+        <div class="fotopakietu">
+          <a href="nauka_jazdy_motor/motorowery_swidnica_kategoriaAM.php"><img src="./images/motorowery_swidnicaRomet.jpg" alt="nauka_jazdy_motorowery_swidnica_kategoriaAM" style="width:100%;height:300px"
+              class="imgopacity"></a>
+        </div>
+      </div>
+     <!--moto A1-->
+      <div class="col-md-3">
         <div class="tytulpakietu">
           <p>Pakiet "Start" - kategoria A1</p>
           <h4>Zaczynam przygodę z motorami</h4>
@@ -62,23 +75,24 @@
               class="imgopacity"></a>
         </div>
       </div>
-      <div class="col-md-4">
+       <!--moto A2-->
+      <div class="col-md-3">
         <div class="tytulpakietu">
-          <p>Traktujmy sprawy poważniej, klasa wyższa - kategoria A2 pojemność do 500cm</p>
-          <h4>Nauka jazdy na motory, kategoria A2</h4>
+          <p>Traktujmy sprawy poważniej, klasa wyższa - kategoria A2</p>
+          <h4>Nauka jazdy na motory,kategoria A2</h4>
         </div>
         <div class="fotopakietu">
-          <a href="nauka_jazdy_motor/kategoria_A2.php"><img src="./images/kategoriaA2_swidnica.jpg" style="width:100%;height:300px" class="imgopacity"></a>
+          <a href="nauka_jazdy_motor/kategoria_A2.php"><img src="./images/kategoriaA2_swidnica.jpg" alt="nauka_jazdy_swidnica_motory_kategoria_A2_yamaha_xj6" style="width:100%;height:300px" class="imgopacity"></a>
         </div>
       </div>
-  
-      <div class="col-md-4">
+       <!--moto A-->
+      <div class="col-md-3">
         <div class="tytulpakietu">
-          <p>Motocykle w klasie powyzej 500cm3. żarty się skończyły,odkręcam manetke...</p>
-          <h4>Nauka jazdy na motor, kategorii A</h4>
+          <p>Motocykle w klasie powyzej 600cm3. żarty się skończyły,odkręcam manetke...</p>
+          <h4>Nauka jazdy na motor, kategoria A</h4>
         </div>
         <div class="fotopakietu">
-          <a href="nauka_jazdy_motor/kategoria_A.php"><img src="./images/kategoriaA_swidnica.png" style="width:100%;height:300px" class="imgopacity"></a>
+          <a href="nauka_jazdy_motor/kategoria_A.php"><img src="./images/motory_kategoriaA_swidnica_yamaha_mt07.jpg" alt="nauka_jazdy_swidnica_motory_kategoria_A_yamaha_mt07" style="width:100%;height:300px" class="imgopacity"></a>
         </div>
       </div>
     </div>

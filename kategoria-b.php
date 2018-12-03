@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
  <title>Nauka Jazdy na osobowe w Świdnicy, kategoria B</title>
  <meta charset="UTF-8">
@@ -11,6 +12,8 @@
 <!--CSS and JS,jQuery,Bootstrap-->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
   crossorigin="anonymous">
+<!--Social media buttons-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- CSS -->
 <link rel="stylesheet" href="./stylekategoria.css">  
 </head>
@@ -153,8 +156,17 @@
             <p>Kontakt w godz 7-20. Prosimy uszanowac te godziny.</p>
             <h4>email: wirazmoto@gmail.com</h4>
             <p>emailowo odpowiedz moze trwac nieco dluzej</p>
-            <h4>Nasz Facebook i youTube</h4>
-            <p>podaj tutj linki do social media</p>
+            <h5>Obserwuj Nasz Facebook i youTube</h5>
+      <!--Social media-->
+      <div class="row">
+        <div class="d-flex p-2 col-md-6">
+          <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook" style="width:100px;"></a>
+        </div>
+        <div class="d-flex p-2 col-md-6">
+        <a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube" style="width:100px;"></a>
+        </div>
+      </div>
+      <!--koniec social-->
           </div>
           <div class="col-md-4" id="kontakt">
             <img src="./images/contact2.png" alt="kantakt szkola jazdy w Swidnicy"

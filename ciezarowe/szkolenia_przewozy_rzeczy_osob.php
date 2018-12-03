@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
  <title>Szkolenia przewóz osób i rzeczy w Świdnicy,Strzegomiu,Dzierżoniowie.</title>
  <meta charset="UTF-8">

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
 <title>Nauka jazdy na ciężarowe w Swidnicy.Kategoria C, CE</title>
 <meta charset="UTF-8">
@@ -16,6 +17,8 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<!--Social media buttons-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
 </head>
 <body data-spy="scroll" data-target="#menu">
@@ -125,7 +128,20 @@ include '../header2.php';
    Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
    Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem.
    <br></p>
-   <h4>Wiraż Swidnica to wysokiej klasy szkolenia na kategorie ciężarowe.</h4>
+	 <h5>Wiraż Swidnica to wysokiej klasy szkolenia na kategorie ciężarowe.</h5>
+	 <h4>Jeśli jeszcze się nie zdecydowałeś i masz pytania zadzwoń tel: 691 806 913</h4>
+  <p>Kontakt w godz 7-20. Prosimy uszanowac te godziny.</p>
+	<h5>Sprzawdź Nasz Facebook i youTube</h5>
+  <!--Social media-->
+      <div class="row">
+        <div class="d-flex p-2 col-md-6">
+          <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook" style="width:100px;"></a>
+        </div>
+        <div class="d-flex p-2 col-md-6">
+        <a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube" style="width:100px;"></a>
+        </div>
+      </div>
+      <!--koniec social-->
    </div>
    <div class="col-md-6" id="kontakt">
     <img src="../images/mantgle12.240 wiraz2.jpg"  alt="kategoriaC_Swidnica" style="width:100%;height:400px">
@@ -138,7 +154,7 @@ include '../header2.php';
    <div class="row">
       <div class="col-md-5" id="kontakt0">WIRAZ jazda uzależnia...</div>
       <div class="col-md-3" id="kontakt1"> Kontakt: 691 806 913</div>
-      <div class="col-md-4" id="kontakt2">Przekonaj sie,ze mamy wszystko</br><b>co potrzebujesz,aby mieć prawo jazdy</b></br>Zapraszamy
+      <div class="col-md-4" id="kontakt2">Przekonaj sie,ze mamy wszystko<br><b>co potrzebujesz,aby mieć prawo jazdy</b><br>Zapraszamy
         na kursy.</div>
    </div>
 </div>

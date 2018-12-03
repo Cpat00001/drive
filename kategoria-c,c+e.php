@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pl-PL">
 <head>
 <title>Nauka jazdy na ciezarowe w Swidnicy, Szkola jazdy kategoria C</title>
 <meta charset="UTF-8">

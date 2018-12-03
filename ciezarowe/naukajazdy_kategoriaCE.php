@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html lang="pl-PL">
 <head>
   <title>Nauka jazdy na ciężarowe w Swidnicy.Kategoria CE ciężarowy z przyczepą lub naczepą.</title>
   <meta charset="UTF-8">
@@ -18,6 +18,8 @@
 
   <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+ <!--Social media buttons-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
 </head>
 
@@ -185,8 +187,17 @@ include '../header2.php';
 
         <h4>email: wirazmoto@gmail.com</h4>
         <p>emailowo odpowiedz moze trwac nieco dluzej</p>
-        <h4>Nasz Facebook i youTube</h4>
-        <p>podaj tutj linki do social media</p>
+        <h5>Sprzawdź Nasz Facebook i youTube</h5>
+            <!--Social media-->
+      <div class="row">
+        <div class="d-flex p-2 col-md-6">
+          <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook" style="width:100px;"></a>
+        </div>
+        <div class="d-flex p-2 col-md-6">
+        <a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube" style="width:100px;"></a>
+        </div>
+      </div>
+      <!--koniec social-->
       </div>
 
 
