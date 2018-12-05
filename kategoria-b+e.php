@@ -12,9 +12,11 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
   crossorigin="anonymous">
 <!-- CSS -->
-<link rel="stylesheet" href="./stylekategoria.css">   
+<link rel="stylesheet" href="./stylekategoria.css">
+<!--file style2.css needed for styling pop up banners cookie + welcome-->
+<link rel="stylesheet" href="style2.css">   
 </head>
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
 <?php
     //navbar with a navigation between categories
@@ -60,7 +62,7 @@
    <br><br>
    <div class="alert alert-success">
     Jesli potrzebujesz prawo jazdy na cieższe pojazdy i przyczepy ,zapraszamy na kursy prawa jazdy kategoria C1 + E oraz C+E.
-    <a href="ciezarowe/naukajazdy_kategoriaCE.php"><h4>Tutaj sprawdzisz oferte prawo jazdy kategorii C1, C, C1+E i CE.</h4></a>
+    <a href="ciezarowe/naukajazdy_kategoriaCE.php" style="color:blue"><h5>Kliknij i sprawdź naszą ofertę prawo jazdy kategorii C1, C, C1+E i CE.</h5></a>
    </p>
   </div>
   </div>
@@ -131,7 +133,7 @@
    <div class="container-fluid">
      <div class="row">
       <div class="col-md-6" id="jakaPrzyczepa">
-        <h4>Rozne zabudowy przyczep - rozne transporty, jedna kategoria BE.</h4>
+        <h4>Różne zabudowy przyczep - różne transporty, jedna kategoria BE.</h4>
         <img src="./images/kategoriaBE_02.png" alt="nauka jazdy kategoria BE transport koni Dzierozniow Bielawa Strzegom Strzelin" style="width:70%;height:300px;">
         
       </div>
@@ -160,14 +162,15 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6" id="kontaktBE">
-      <h4>Chcę się zapisać na kurs kategorii C w Nauce Jazdy Wiraz Świdnica</h4>
+      <h4>Chcę się zapisać na kurs kategorii BE w Nauce Jazdy Wiraż Świdnica</h4>
       <p>
-        Zapisy trwaja na bieżąco, kursy na te kategoria wykonujemy caly rok. 
-        Jesli jestescie Panstwo zdecydowani zapraszamy do skontaktowania sie i zapisania na kurs. Cena zostanie zaproponowana wraz z kompletem dokumentow i data rozpoczecia kursu - zatem wszystko jest jasne i przejrzyste. 
+        Zapisy trwaja na bieżąco, kursy na tę kategoria wykonujemy cały rok. 
+        Jeśli jestescie Państwo zdecydowani zapraszamy do skontaktowania sie i zapisania na kurs. Cena zostanie zaproponowana wraz z kompletem dokumentow i data rozpoczecia kursu - zatem wszystko jest jasne i przejrzyste. 
         Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem na tej kategorii.<br>
+        <h3><b>Zapisy tel: 691 806 913</b></h3>
         Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznac sie z budowa przyczepy i jej gabarytami, szczegolnie w prowadzeniu po placu - <b>przyczepa jak egzaminacyjna</b>.
         <br></p>
-      <h4>Wiraż Swidnica to wysokiej klasy szkolenia na kategorie osobowe z przyczepa.</h4>
+      <h4>Wiraż Świdnica to wysokiej klasy szkolenia na kategorie osobowe z przyczepą.</h4>
     </div>
     <div class="col-md-6" id="kontaktBE">
       <img src="./images/mantgle12.240 wiraz2.jpg" alt="prawo jazdy BE_Swidnica" style="width:100%;height:400px">
@@ -187,6 +190,14 @@ include'footer1.php';
   crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
   crossorigin="anonymous"></script>
+<!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include 'cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
 </html>
 

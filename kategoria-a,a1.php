@@ -67,7 +67,7 @@
      <!--moto A1-->
       <div class="col-md-3">
         <div class="tytulpakietu">
-          <p>Pakiet "Start" - kategoria A1</p>
+          <p>Motor 125cm3 - kategoria A1</p>
           <h4>Zaczynam przygodę z motorami</h4>
         </div>
         <div class="fotopakietu">
@@ -100,20 +100,5 @@
 <?php
 include 'footer1.php';
 ?>
-
-<?php
-/*
- <!--Footer-->
-  <div class="container-fluid" id="footer">
-    <div class="row">
-      <div class="col-md-5" id="kontakt0">WIRAZ jazda uzależnia...</div>
-      <div class="col-md-3" id="kontakt1"> Kontakt: 691 806 913</div>
-      <div class="col-md-4" id="kontakt2">Przekonaj sie,ze mamy wszystko</br><b>co potrzebujesz,aby mieć prawo jazdy</b></br>Zapraszamy
-        na kursy.</div>
-    </div>
-  </div>
-*/ 
-?>
-
 </body>
 </html>

@@ -11,8 +11,10 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
   crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
+<!--file style2.css needed for styling pop up banners cookie + welcome-->
+<link rel="stylesheet" href="../style2.css">
 </head>
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
 
 <?php
@@ -192,5 +194,13 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
   crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
   crossorigin="anonymous"></script>
+<!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="../cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include '../cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
 </html>

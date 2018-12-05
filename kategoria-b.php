@@ -15,9 +15,11 @@
 <!--Social media buttons-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- CSS -->
-<link rel="stylesheet" href="./stylekategoria.css">  
+<link rel="stylesheet" href="./stylekategoria.css">
+<!--file style2.css needed for styling pop up banners cookie + welcome-->
+<link rel="stylesheet" href="style2.css">  
 </head>
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
 <?php
     //navbar with a navigation between categories
@@ -186,6 +188,14 @@ include 'footer1.php';
   crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
   crossorigin="anonymous"></script>
+<!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include 'cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
 </html>
 

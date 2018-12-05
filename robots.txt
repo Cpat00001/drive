@@ -23,6 +23,17 @@
       <priority>0.7</priority>
 
    </url>
+   <url>
+
+      <loc>http://www.oskwiraz.pl/nauka_jazdy_motor/motorowery_swidnica_kategoriaAM.php.php</loc>
+
+      <lastmod>2018-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
    
    <url>
 

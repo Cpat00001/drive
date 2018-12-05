@@ -47,7 +47,7 @@
 <!--central part of website with foto and links to subwebsites-->
 <div class="container-fluid" id="oferta">
 	<div class="row">
-	  <div class="col-md-3">
+	  <!-- <div class="col-md-3">
 	    <div class="tytulpakietu">
 			<p>Pakiet od zera do C transportera</p>
 			<h4>Zaczynam przygodę z motoryzacją</h4>
@@ -55,8 +55,8 @@
 		<div class="fotopakietu">
 		  <a href="#"><img src="./images/engine-start-stop-button.png" style="width:100%;height:300px" class="imgopacity"></a>
 		</div>
-	  </div>
-	  <div class="col-md-3">
+	  </div> -->
+	  <div class="col-md-4">
 		  <div class="tytulpakietu">
 			<p>Pakiet z B na C</p>
 			<h4>Kierowca ciężarówki "solo"</h4>
@@ -65,7 +65,7 @@
 		    <a href="ciezarowe/naukajazdy_kategoriaC.php"><img src="./images/Fire-truck.png" style="width:100%;height:300px" class="imgopacity"></a>
 		  </div>
 	  </div>	
-	  <div class="col-md-3">
+	  <div class="col-md-4">
         <div class="tytulpakietu">	  
 			<p>Pakiet z B na C + E</p>
 			<h4>Kierowca ciężarówki z przyczepą</h4>
@@ -75,7 +75,7 @@
 		  </div>
 	  </div>
 	  
-	  <div class="col-md-3">
+	  <div class="col-md-4">
         <div class="tytulpakietu">	    
 			<p>Kwalifikacje na przewozy</p>
 			<h4>Kwalifikacje kierowcy zawodowego</h4>

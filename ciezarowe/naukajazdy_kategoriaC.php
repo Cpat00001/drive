@@ -20,8 +20,10 @@
 <!--Social media buttons-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
+<!--file style2.css needed for styling pop up banners cookie + welcome-->
+<link rel="stylesheet" href="../style2.css">
 </head>
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
 <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
 <!--<div class="container-fluid">-->
 <?php
@@ -92,7 +94,7 @@ include '../header2.php';
 		W przypadku kierowania zespołem pojazdów (samochód ciężarowy wraz z przyczepą lub naczepą) wymagane jest również posiadanie<br>
 		prawa jazdy kategorii E.
 		</p>
-		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal posiadał prawo jazdy na ciężarowe.</h4><br>
+		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
 		<h4>Prawo jazdy kategorii C do zrobienia z Wirażem w Świdnicy.</h4> 
 	</div>
   </div>
@@ -110,7 +112,7 @@ include '../header2.php';
         Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
 		Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem
 		</p>
-		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal posiadał prawo jazdy na ciężarowe.</h4><br>
+		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
 		 
 	</div>
 	<div class="col-md-6" id="cena">
@@ -128,10 +130,10 @@ include '../header2.php';
    Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
    Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem.
    <br></p>
-	 <h5>Wiraż Swidnica to wysokiej klasy szkolenia na kategorie ciężarowe.</h5>
+	 <h5>Wiraż Świdnica to wysokiej klasy szkolenia na kategorie ciężarowe.</h5>
 	 <h4>Jeśli jeszcze się nie zdecydowałeś i masz pytania zadzwoń tel: 691 806 913</h4>
   <p>Kontakt w godz 7-20. Prosimy uszanowac te godziny.</p>
-	<h5>Sprzawdź Nasz Facebook i youTube</h5>
+	<h5>Sprawdź Nasz Facebook i YouTube</h5>
   <!--Social media-->
       <div class="row">
         <div class="d-flex p-2 col-md-6">
@@ -158,6 +160,13 @@ include '../header2.php';
         na kursy.</div>
    </div>
 </div>
-
+<!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="../cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include '../cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
 </html>

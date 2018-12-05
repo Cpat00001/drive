@@ -20,10 +20,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
  <!--Social media buttons-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
+
+<link rel="stylesheet" type="text/css" href="../stylekategoria.css">
+<!--file style2.css needed for styling pop up banners cookie + welcome-->
+<link rel="stylesheet" href="../style2.css">
 </head>
 
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
   <!--<div class="container-fluid">-->
  
@@ -127,12 +130,10 @@ include '../header2.php';
           <b>Cena.</b>Kształtujemy ceną w taki sposob,aby była ona konkurencyjna i atrakcyjna na rynku.<br>
           Cena jest kwestia do negocjacji i podawana jest Klientowi przed rozpoczęciem kursu.Na cenę wpływa kilka czynników, zatem może się ona różnic w trakcie roku kalendarzowego. Dodatkowo jeśli byłeś naszym Kursantem innej kategorii np motor, osobowe, wtedy dla naszych wracających Kursantów dorzucamy w cenie <b>1godz jazdy GRATIS, to DUŻY PLUS.</b><br>
           <div class="alert alert-success">
-          <b>Co ważne, Brak kosztow ukrytych.</b><br>Cena jaka została Ci zaproponowana obowiązuje do końca i pozostaje bez zmian. Kurs
-          należy wykonać w okresię 6 miesięcy od zapisania się na szkolenie.
+          <b>Co ważne, Brak kosztow ukrytych.</b><br>Cena jaka została Ci zaproponowana obowiązuje do końca i pozostaje bez zmian. Kurs należy wykonać w okresię 6 miesięcy od zapisania się na szkolenie.
           </div>
           <div class="alert alert-danger">
-          Istnieje możliwość rat według Państwa potrzeb i możliwości - więcej informacji na
-          miejscu w biurze.
+          Istnieje możliwość rat według Państwa potrzeb i możliwości - więcej informacji tel 691 806 913 lub w biurze.
           </div>
           <br>
           <b>Jak długo trwa kurs kategorii CE?</b>
@@ -149,14 +150,11 @@ include '../header2.php';
           szkolach bez wzgledu na liczbe kursantow jestesmy w scislej czolowce.
           Zapraszam do skontaktowania się z nami i poznanią naszych mocnych stron i możliwości.
           Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
-          Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć
-          wiedze przed egzaminem
+          Zapraszamy Kursantów z innych szkół,ktorzy chcieliby zapoznać się z budową auta egzaminacyjnego lub odswiezyć wiedzę przed egzaminem. Dobrze przejechać się przed egzaminem,aby wyczuć gabaryty auta.
         </p>
         <div class="alert alert-danger">
           <p><b>Przekonaj się,że mamy wszystko,abyś posiadał prawo jazdy na ciężarowe.</b></p>
         </div>
-        
-
       </div>
       <div class="col-md-6" id="cena">
         <img src="../images/kategoriaCE_praca_transport.png" alt="kategoriaCE_Swidnica_nauka_jazdy_transport" style="width:100%;height:500px">
@@ -187,7 +185,7 @@ include '../header2.php';
 
         <h4>email: wirazmoto@gmail.com</h4>
         <p>emailowo odpowiedz moze trwac nieco dluzej</p>
-        <h5>Sprzawdź Nasz Facebook i youTube</h5>
+        <h5>Sprawdź Nasz Facebook i YouTube</h5>
             <!--Social media-->
       <div class="row">
         <div class="d-flex p-2 col-md-6">
@@ -215,7 +213,13 @@ include '../header2.php';
         na kursy.</div>
     </div>
   </div>
-
+<!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="../cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include '../cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
-
 </html>

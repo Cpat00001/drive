@@ -1,0 +1,24 @@
+#welcome{
+position:fixed;
+z-index:1;
+top:330px;
+width: 90%;
+height:auto;
+margin-left:10px;
+background-color:rgb(109, 59, 173);
+color:white;
+padding:15px;
+}
+.banner1{
+	margin-top:20px;
+}
+#cookieBanner{
+position:fixed;
+z-index:1;
+top:330px;
+width: 90%;
+height:auto;
+margin-left:10px;
+background-color:orange;
+padding:15px;
+}

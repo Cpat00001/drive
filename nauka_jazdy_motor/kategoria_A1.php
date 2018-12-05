@@ -16,9 +16,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- CSS -->
   <link rel="stylesheet" href="../stylekategoria.css">
+  <!--file style2.css needed for styling pop up banners cookie + welcome-->
+  <link rel="stylesheet" href="../style2.css">
 </head>
 
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
 <?php
   include '../header4_bikes.php';
@@ -167,6 +169,7 @@
         <p>Prosimy o kontakt w godzinach 7-20. prosimy uszanować te godziny.</p>
         <h2><b>tel: 691 806 913</b></h2>
           <!--Social media-->
+      <h5>Sprawdź Nasz Facebook i YouTube</h5>
       <div class="row">
         <div class="d-flex p-2 col-md-6">
           <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook" style="width:100px;"></a>
@@ -180,12 +183,8 @@
       <div class="col-md-4">
         <img src="../images/contact2.png" alt="kantakt szkola jazdy w Swidnicy" style="width:50%;height:200px">
       </div>
-
     </div>
   </div>
-
-
-
   <!--footer-->
   <div class="container-fluid" id="footer">
     <div class="row">
@@ -195,7 +194,6 @@
         na kursy.</div>
     </div>
   </div>
-
   <!--Javascript for Bootstrap-->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>
@@ -203,6 +201,14 @@
     crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
+  <!--pop up banners cookie + welcome-->
+  <!--cookie functions for banners-->
+  <script src="../cookie2.js"></script>
+  <?php
+  // file with pop-up banners cookie and welcome
+   include '../cookieBanner.php';
+  ?>
+  <!--end of banners cookie + welcome-->
 </body>
 
 </html>

@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- end of social media links-->
 </head>
-<body data-spy="scroll" data-target="#menu" onload="checkCookie()">
+<body data-spy="scroll" data-target="#menu" onload="checkCookie(); checkBanner();">
 <?php
 include 'header.php';
 ?>
@@ -192,10 +192,8 @@ include 'footer.php';
 <!--cookie banner-->
 	<div class="alert alert-primary" id="cookieBanner">
 		<div class="banner1">
-					<p>Nasza strona uzywa plików Cookie.<br>
-						Ciasteczka cookie wykorzystywane sa w celach statystycznych i poprawienia jakosci naszej strony www, celem
-						dostarczenia
-						jak najlepszej wartosci i tresci odwiedzajacym.</p>
+					<p>Nasza strona używa plików Cookie.<br>
+					 Pliki cookie wykorzystywane sa w celach statystycznych i poprawienia jakosci naszej strony www, celem dostarczenia jak najlepszej wartości i treści odwiedzajacym.Korzystając ze strony,akceptujesz nasze ciasteczka.</p>
 					<a class="btn btn-danger btn-lg" href="#" role="button" id="btn1" onclick="hideBanner()">OK,akceptuje</a>
 		</div>
 </div>
