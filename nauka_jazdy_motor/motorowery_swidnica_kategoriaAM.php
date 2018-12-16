@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" content="Nauka jazdy na motorowery,to oferta dla nastolakow ze Swidnicy i miast okolicznych Dzierzoniow,Bielawa,Zarow,Strzegom,Jaworzyna,Pieszyce oraz mniejszych miejscowosci, ktorzy chca uzyskac karte motorowerowa.Kategoria AM pozwala prowadzic motorowery do 50cm3. Jest to kategoria dla osob,ktore nie moga miec prawo jazdy kategorii B lub A1, ale chca jezdzic pojazdem silnikowym">
-  <meta name="keywords" content="motorowery, kategoria AM,karta motorowerowa,swidnica,dzierzoniow,strzegom,bielawa,swiebodzice,romet zxt50,nauka jazdy motorowery">
+  <meta name="description" content="Nauka jazdy na motorowery, to oferta dla nastolakow ze Swidnicy i miast okolicznych Dzierzoniow, Bielawa, Zarow, Strzegom,Jaworzyna, Pieszyce oraz mniejszych miejscowosci, ktorzy chca uzyskac karte motorowerowa. Kategoria AM pozwala prowadzic motorowery do 50cm3. Jest to kategoria dla osob, ktore nie moga miec prawo jazdy kategorii B lub A1, ale chca jezdzic pojazdem silnikowym">
+  <meta name="keywords" content="motorowery, kategoria AM, karta motorowerowa,swidnica, dzierzoniow, strzegom, bielawa, swiebodzice, romet zxt50, nauka jazdy motorowery">
   <title>Nauka Jazdy Motorowery Świdnica Strzegom Dzierzoniow Bielawa</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
   crossorigin="anonymous">
@@ -43,35 +43,94 @@ include '../header4_bikes.php';
   <!--opis kategorii-->
   <div class="row">
     <div class="col-md-6" id="opisKategorii">
-      <h4>zrob naglowek tutaj</h4>
-      <p>tutaj jest opis kategorii.dodaj opisy</p>
+      <h3>Opis - Kategoria AM . Karta motorowerowa Świdnica.</h3>
+      <p>Kategoria AM zastąpiła uprawnienia karty motorowerowej.
+Jeśli chcesz poruszać się w ruchu drogowym motorowerem np. skuter, enduro , naked , sport , motorower Romet lub motorynka ‘Pony’ lub motorower innego producenta, jesteś zobowiązany uzyskać kategorię prawo jazdy AM.
+
+W szkole jazdy Wiraż Świdnica na kursie mamy dla Was motorower taki sam, na jakim zdajesz egzamin w WORD Wałbrzych, czyli Motorower ROMET ZXT50.<br>
+To sprawia, że idąc na egzamin po naszym szkoleniu znasz doskonale maszynę i to, jak się prowadzi w czasie jazdy.
+<h4>Co to jest prawo jazdy kategorii AM?</h4>
+
+<p>Jest to dokument pozwalający na jazdę :
+motorowerem  -  czyli pojazdem dwu lub trójkołowy zaopatrzonym w silnik o pojemności nie przekraczającej 50cm3 lub silnik elektryczny o mocy nie większej niż 4 kW, którego cechy konstrukcyjne ograniczają prędkość do 45km/h.
+
+Czterokołowiec lekki (np. quad) – jest to pojazd, którego masa własna nie przekracza 350kg, a cechy konstrukcyjne ograniczają prędkość do 45km/h.
+</p>
+
+
+<div class="alert alert-warning">
+  <p>Opis kategoria AM: motorower ROMET ZXT50:</p>
+</div>
+<h5>Dla pasjonatów parametrów i techniki. Opis ROMET ZXT50:</h5>
+
+<p>Silnik : jednocylindorwy, czterosuwowy , OHC, chłodzony powietrzem</br>
+Pojemność: 49cm3</br> 
+Prędkość : 45km/h</br>
+Przeniesienie napędu : łańcuch</br>
+Moc maksymalna : 3,82 KM </br>
+Start : elektryczny , nożny</br>
+Hamulec : przód: tarczowy , tył : bębnowy</br>
+Felgi: aluminiowe.</br>
+Kolor: ładny </br>
+</p>
+
+
     </div>
     <div class="col-md-6" id="opisKategorii">
-      <h4>zrob naglowek tutaj</h4>
+      <h4>Jazdy dla rozrywki lub do szkoły. Przejazdy w grupie i samotne wojaże.</h4>
       <img src="../images/kategoriaAM_motorower.jpg" alt="nauka_jazdy_motorower_swidnica" style="width:100%;height:300px">
+      <br><br>
+      <h4>Romet to motorowery modne, o ciekawej linii. Classic, enduro, Pony , naked.</h4>
+      <img src="../images/romet5.jpg" alt="nauka_jazdy_motorower_swidnica" style="width:100%;height:300px">
+
     </div>
   </div>
 </div>
 <!--warunki kategorii-->
    <div class="row">
     <div class="col-md-6" id="warunki">
-       <h4>zrob naglowek tutaj</h4>
+       <h4>Oferta także dla dziewcząt , skutery i motorowery to dobry sposób na niezależność.</h4>
       <img src="../images/motorowery_swidnica1.png" alt="nauka_jazdy_motorower_swidnica" style="width:100%;height:300px">
 </div>
       <div class="col-md-6" id="warunki">
-       <h4>zrob naglowek tutaj</h4>
-      <p>tutaj sa warunki formalne kategorii, dodaj opisy</p>
+       <h4>Prawo jazdy kategorii AM, od ilu lat ? Jakie warunki formalne??</h4>
+      <p>
+      <br>Na kurs prawo jazdy kategorii AM, może zapisać się osoba w wieku 3 miesiące przed ukończeniem 14lat. (czyli masz  13lat i 9miesięcy i zapisujesz się na kurs motorowerowy)</p></br>
+
+<h4>Przed przystąpieniem na kurs powinieneś :</h4>
+<p>
+- w starostwie powiatowym dopełnić wymaganych formalności i utworzyć profil kandydata na kierowcę (PKK). W Świdnicy starostwo powiatowe jest na ul. Marii Skłodowskiej-Curie 7, 58-100 Świdnica</br>
+- złożyć wniosek o wydanie prawa jazdy,</br>
+- orzeczenie lekarskie, które stwierdza brak przeciwskazań zdrowotnych do  prowadzenia pojazdu. U nas doradzimy Ci lekarza, od lat współpracuje z nami doktor przeprowadzający badania kierowców.</br>
+- musisz mieć fotografię : wyraźna, aktualna , kolorowa, wymiar 3,5 x 4,5cm</br>
+- zgoda rodziców (opiekunów) – jeśli wymagana.</br>
+</p>
+
+Dostarczenie dokumentów w formie elektronicznej lub osobiści. Po przedłożeniu dokumentów następuje ich weryfikacja. Jeśli wszystko jest OK, otrzymasz numer PKK , który należy udostępnić szkole, gdzie robisz kurs kategorii AM. Nie powinieneś pokazywać tego numeru innym instytucjom, które nie biorą udziału w Twoim szkoleniu lub egzaminowaniu.
+<h5>Jeśli masz jeszcze jakieś pytania prosimy o kontakt do Naszej szkoły jazdy Wiraż Świdnica</h5>
+</p>
     </div>
   </div>
   <!--czas trwania i cena kursu-->
     <div class="row">
     <div class="col-md-6" id="cena">
-      <h4>zrob naglowek tutaj</h4>
-      <p>tutaj jest opis kategorii.dodaj opisy</p>
+      <h4>Ile trwa kurs prawa jazdy na kategorią AM , motorowery, skutery ??</h4>
+      <p>Na kurs składa się szkolenie teoretyczne i praktyczne.
+Teoria ,zajęcia to 10 x 45 minut zajęć .
+Jednak możesz samodzielnie przygotowywać się do egzaminu z przepisów ruchu drogowego – tzw. Teoria. Zwolniony jesteś wtedy z egzaminu wewnętrznego w Szkole Jazdy i tylko zdajesz egzamin w WORD. Nie musisz chodzić do nas na teorię, nic na siłe, trudno zmuszać wbrew woli.</br>
+
+<b>Zajęcia praktyczne , jazda motorowerem to 10 x 60minut.</b> 
+Tutaj wykonujesz zadania na placu, obsługę techniczna i jazda w ruchu miejskim.
+
+<h5>Prawo jazdy kategorii AM Cena kursu.</h5> 
+Nie ma jednej stałej ceny, zależy ona od kilu czynników. Jednak pewne jest, że cena kursu, jaka została Ci zaproponowana  jest ostateczna. Brak  kosztów ukrytych.
+Zadzwoń do nas tel. 691 806 913 i dowiesz się o aktualnej cenie.
+Płatność jest możliwa w ratach w zależności od Twoich możliwości. Zatem możesz płacić np. 3 raty lub więcej rat, jak Ci wygodnie. Jazdy są prowadzone proporcjonalnie do wpłaconych środków.
+</p>
     </div>
     <div class="col-md-6" id="cena">
-       <h4>zrob naglowek tutaj</h4>
-      <img src="../images/motorowery_swidnica4.jpg" alt="nauka_jazdy_motorower_swidnica" style="width:100%;height:300px">
+       <h4>Mieszkasz w okolicach Świdnicy, nie zawsze jest kto podwieźć lub autobus zawodzi...motorower to rozwiąznie dla Ciebie!</h4>
+      <img src="../images/motorowery_swidnica4.jpg" alt="prawo_jazdy_motorower_swidnica" style="width:100%;height:300px">
     </div>
   </div>
  <!--kontakt-->

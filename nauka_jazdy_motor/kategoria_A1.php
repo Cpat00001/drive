@@ -83,11 +83,11 @@
             <p>wiek 16 lat ( istnieje mozliwosc zapisu 3 miesiace wczesniej,czyli jak masz 15 lat i 9miesiecy)</p>
           </li>
           <li>
-            <p>badania lekarskie i psychologiczne plus 1 fotografia do prawo jazdy. Kursantom dajemy kontakt do lekarza, swobodnie
+            <p>badania lekarskie i psychologiczne. Kursantom dajemy kontakt do lekarza, swobodnie
             mozna ustalic sobie termin z doktorem</p>
           </li>
           <li>
-            <p>1 fotografia</p>
+            <p>1 fotografia, wymiary: 3.5 x 4.5cm , aktualna , wyraźna, kolorowa, kolorowa, pokazująca wyraźnie oczy / źrenice </p>
           </li>
           <li>
             <p>Nalezy pobrac w starostwie "profil kierowcy" ( PKK) i zapraszamy do naszej szkoly jazdy w Świdnicy celem zapisania się na kurs i <b>ZACZYNAMY!</b></p>
@@ -102,7 +102,7 @@
       <div class="col-md-6" id="cena">
         <h4>Jak długo trwa kurs prawo jazdy kategorii A1 w Świdnicy?</h4>
         <p>Szkolenie teoretyczne, tutaj jest 20godzin, ale jeśli czujesz się na siłach do egzaminu teoretycznego możesz
-          przystapić sam, bez szkolenia teoretycznego w w Naszej Szkole Jazdy. Co wiecej...jeśli posiadasz kategorię A1
+          przystapić sam, bez szkolenia teoretycznego w Naszej Szkole Jazdy Wiraż Świdnica. Co wiecej...jeśli posiadasz kategorię A1
           lub A2, to egzamin teoretyczny Cię nie obowiązuje.<br>
           Jednak to, co elektryzuje kursantów najbardziej, to szkolenie praktyczne. W ramach szkolenia praktycznego
           zajęcia prowadzimy na motocykl Yamaha YBR 125cm3 - jest to maszyna <b>IDENTYCZNA</b> jak w <b>WORD

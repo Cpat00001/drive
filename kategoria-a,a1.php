@@ -35,17 +35,17 @@
       <div class="col-md-12" id="banner1">
         <div class="col-md-12" id="banner2">
 		<h4>Witaj w sekcji dla miłośników motocykli - poczucia wolności i swobody,niebanalnych i bezkompromisowych wrażeń.</h4><br>
-		Wybierz jedną z kategorii motocyklowych poniżej.
+		<b>Wybierz jedną z kategorii motocyklowych poniżej.</b>
 		<p><b style="color:white">Kategoria A - to klasa zdecydowanie najmocniejsza, prestiżowa, królewska. Tutaj warto mieć już wcześniejsze doświadczenie z motorami,lub wiedzieć co się robi na drodze.<br>
-		Kategoria A2 - klasa motocykli do 500cm. Wybierz tę kategorię i czytaj więcej informacji.<br>
+		Kategoria A2 - klasa motocykli do 600cm. Rozsądek i zaplanowany progress.<br>
 		Kategoria A1 - dla rozpoczynających przygodę z motocyklami.<br>
+    Kategoria AM - to motorowery do 50cm3. Oferta dla osób do 18 roku życia.
 		Zapraszamy</b></p>
-          <h4>Generalne informacje dla kategorii motocyklistow.Wezwanie do dzialania, nowy kurs, nowe cos tam,co cchesz oglosic</h4>
-          <h4> tutaj wpisujesz co uwazasz za nowosc lub ciekawa oferta obecnie dla tej kategorii</h4>
-          <h4>osoba odwiedzajaca te podstrone dowiaduje sie o ofercie/konkursie wsrod uczestnikow kursu kat A lub A2 lub A1 np 1 KONKURS losujemy na Facebooku, godzina gratis na motocyklisty, albo z okazji dnia Kobiet 1godz dla kazdej nowo zapisanej Panii w dniu 8-12marca itp itd co tylko do glowy przyjdzie i sie oplaca
-            kamizelka odblaskowa + rekawice gratis dla motocyklisty</h4>
-          <p>po wiecej info o dane jkategorii przechodzi do wybranej kategorii i klika zdjecie motocykla  
-            rzeczy</p>
+          <h4>Prawo jazdy na motor, to kwit, który na legalu pozwala poruszać się po drodze jednośladem. Wybór kategorii zależy w dużej mierze od wieku Kursanta i doświadczenia.</h4>
+    <div class="alert alert-danger" role="alert">
+  <b>Szeroki wybór motocykli i kategorii prawo jazdy. Nowoczesny sprzęt jak WORD Wałbrzych i Wroclaw i wysokiej jakości kursy prawo jazdy na motor.</b>
+</div>
+          
         </div>
       </div>
     </div>
@@ -57,7 +57,7 @@
           <div class="col-md-3">
         <div class="tytulpakietu">
           <p>Kategoria AM - motorowery, klasa do 50cm3</p>
-          <h4>Pierwsze samodzielne kilometry</h4>
+          <h4>Pierwsze samodzielne kilometry. Poznaję świat</h4>
         </div>
         <div class="fotopakietu">
           <a href="nauka_jazdy_motor/motorowery_swidnica_kategoriaAM.php"><img src="./images/motorowery_swidnicaRomet.jpg" alt="nauka_jazdy_motorowery_swidnica_kategoriaAM" style="width:100%;height:300px"
@@ -68,7 +68,7 @@
       <div class="col-md-3">
         <div class="tytulpakietu">
           <p>Motor 125cm3 - kategoria A1</p>
-          <h4>Zaczynam przygodę z motorami</h4>
+          <h4>Zaczynam przygodę z motorami. Szukam odskoczni.</h4>
         </div>
         <div class="fotopakietu">
           <a href="nauka_jazdy_motor/kategoria_A1.php"><img src="./images/kategoriaA1_swidnica.png" alt="nauka_jazdy_motorem_swidnica_A1" style="width:100%;height:300px"

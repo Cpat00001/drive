@@ -7,7 +7,7 @@
   <!--Linia kodu do sledzenia przez roboty wyszukiwarki-->
   <meta name="robots" content="index,follow">
   <meta name="description" content="Oferta Nauki Jazdy Wiraż w Świdnicy na motory kategorii A2.Prowadzimy kursy dla chętnych na naukę jazdy motorem ze Strzegomia,Dzierżoniowa,Bielawy i okolic Świdnicy np Sobótka,Żarów.Kategoria A2 to motocykle klasy o pojemności do 500cm3.Atrakcyjna cena kursu prawo jazdy na motory,wysoko jakość szkolenia,szybkie terminy,nauki jazdy i wielu zadowolonych Klientów,to nasze mocne strony.Strona opisuje wymagania techniczne motocykla kategorii A2 do egzaminu na prawo jazdy tej kategorii motocyklowej. Znajdziesz tu opis i wymogi prawne dla chętnych na kurs kategorii A2 a także cenę dla tej kategorii prawojazdy na motor. ">
-  <meta name="keywords" content="nauka jazdy na motory kategorii A2, szkola jazdy na motory A2,nauka jazdy na motocykle A2 świdnica,prawo jazdy na motor, nauka jazdy motorem kategorii A2 dzierżoniów , nauka jazdy motorem A2 bielawa, nauka jazdy motorem A2 strzegom, kursy motocyklowe, jazda motorem,">
+  <meta name="keywords" content=" kategoria A2 świdnica dzierżoniów , prawo jazdy na motor kategoria A2 świdnica dzierżoniów , strzegom , bielawa, prawo jazdy kategoria A2 cena świdnica, cena prawo jazdy kat A2 świdnica strzegom bielawa, kat A2 ,  nauka jazdy na motory kategorii A2, szkola jazdy na motory A2,nauka jazdy na motocykle A2 świdnica, prawo jazdy na motor, nauka jazdy motorem kategorii A2 dzierżoniów , nauka jazdy motorem A2 bielawa, nauka jazdy motorem A2 strzegom, kursy motocyklowe, jazda motorem">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--CSS and JS,jQuery,Bootstrap-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
@@ -49,13 +49,18 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6" id="opisKategorii">
-        <h4>Nauka Jazdy na motory kategorii A2 Świdnica, Strzegom, Dzierżoniów, Bielawa.<br>
-          Motocykle pojemności do 500cm3</h4>
-        <p>tutaj opis techniczny lub opis z WORD Walbrzych/Wroclaw i co sprawi,ze motor tej klasy wlasnie jest kalsa A2
-          a nie inna A2 czy A1 tej kategorii. Mozemy tez opisac parametry motocykla Yamaha XJ6 ABS na kategorie A2, wysokosc siodla,masa,inne techniczne specyficzne dla motocykla klasy A2</p>
+        <h4>Prawo Jazdy na motor kategorii A2 Świdnica, Strzegom, Dzierżoniów, Bielawa.<br>
+          Motocykle pojemności do 600cm3</h4>
+        <p>
+        Celem kursu kategorii A2 jest szkolenie na prawo jazdy motocyklami o pojemności od 400cm3 do 600cm3 i mocy w zakresie 25kW - 35kW, czyli około 33KM - 47.6KM.
+        Kategoria A2 jest wybierana ze względu na wiek Kursanta 18lat i/lub umiejętności. Często wybierana kategoria przez osoby , które uważają, że czas na mocniejsze maszyny jeszcze przed nimi.
+        Kursy w tej kategorii prowadzimy <b>na motocyklu jak egzaminacyjny w WORD Wałbrzych i Wrocław</b>. Do dyspozycji <b>Yamaha XJ6 ABS</b> zgodnie z ustawą z dnia 19.1.2013 motocykl spełnia wymagania pojemność 600cm i 35kW. Nasz plac do nauki jazdy znajduje się na bazie MPK ul Inzynierska 6. Spora przestrzeń placu pozwoli spokojnie zapoznać się z charakterystyka motocykla.
+        <div class="alert alert-danger">Yamaha XJ6 ABS jak egzaminacyjna WORD Wałbrzych i Wrocław</div>
+
+        </p>
       </div>
       <div class="col-md-6" id="opisKategorii">
-        <h4>Motocykl kategorii A2. Yamaha XJ6 ABS, jak egzaminacyjna</h4>
+        <h4>Motocykl kategorii A2 - klasa średnia. Yamaha XJ6 ABS, 600cm3 35kW.</h4>
         <img src="../images/kategoria_A2_01_Fotor.jpg" alt="nauka jazdy motorem kategoria A2 Swidnica,Dzierzoniow,Bielawa,Strzegom" style="width:100%;height:400px;">
       </div>
     </div>
@@ -64,7 +69,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6" id="warunki">
-        <h4>Motocykle kategorii A2 do 500cm3:naked, enduro, sport, classic, chopper.</h4>
+        <h4>Motocykle kategorii A2 do 600cm3:naked, enduro, sport, classic, cruiser, supermoto.</h4>
         <img src="../images/kategoria_A2_02.png" alt="nauka jazdy motocyklem kategoria A2" alt="prawo jazdy kategorii BE swidnica strzegom dzierzoniow bielawa"
           style="width:100%;height:400px;">
 
@@ -73,17 +78,16 @@
         <h4> Jakie warunki muszę spełnić,aby zapisać się na prawo jazdy kategorii A2??</h4>
         <ul>
           <li>
-            <p>Wiek 24 lata lub 20 lat,jeśli kierowca posiada conajmniej 2 lata prawo jazdy kategorii A-2</p>
+            <p>Wiek 18 lat ukończone, ale możliwość zapisu na kurs już 3 miesiące przed ukończeniem 18lat </p>
           </li>
           <li>
             <p>badania lekarskie/ orzeczenie lekarskie bez psychologicznych</p>
           </li>
           <li>
-            <p>1 fotografia</p>
+            <p>1 fotografia : kolorowa, wyraźna , aktualna, wymiar 3.5 x 4.5cm</p>
           </li>
           <li>
-            <p>w Starostwie Powiatowym kandydat na kategorię A powinien pobrac profil kierowcy(PKK), przedstawic w
-              szkole jazdy - i zaczynamy kurs</p>
+            <p>w Starostwie Powiatowym kandydat na kategorię A2 powinien pobrac profil kierowcy(PKK), przedstawic w szkole jazdy - i zaczynamy kurs</p>
           </li>
         </ul>
       </div>
@@ -94,29 +98,28 @@
     <div class="row">
       <div class="col-md-6" id="cena">
         <h4>Ile trwa kurs prawo jazdy kategorii A2 w Wiraż Świdnica?</h4>
-        <p>Szkolenie teoretyczne, tutaj jest 20godzin, ale jeśli czujesz się na siłach do egzaminu teoretycznego możesz
-          przystapić sam, bez szkolenia teoretycznego w w Naszej Szkole Jazdy. Co wiecej...jeśli posiadasz kategorię A1
-          lub A2, to egzamin teoretyczny Cię nie obowiązuje.<br>
-          Jednak to, co elektryzuje kursantów najbardziej, to szkolenie praktyczne. W ramach szkolenia praktycznego
-          zajęcia prowadzimy na motocykl Yamaha XJ6 z ABS o mocy 57KW - jest to maszyna <b>IDENTYCZNA</b> jak w <b>WORD
-            Wałbrzych</b>, gdzie najprawdopodobniej będzieci Państwo zdawać na prawo jazdy. Praktyka to zajęcia na
-          placu manewrowym ul Inżynierska 6, zajezdnia MPK Świdnica. Plac to głównie manewry na rownówage, technikę
+        <p>Szkolenie teoretyczne, tutaj jest 30godzin, ale jeśli czujesz się na siłach do egzaminu teoretycznego możesz przystapić sam, bez szkolenia teoretycznego w Naszej Szkole Jazdy. Co wiecej...jeśli posiadasz kategorię A1, to egzamin teoretyczny Cię nie obowiązuje.<br>
+          Jednak to, co elektryzuje kursantów najbardziej, to szkolenie praktyczne. W ramach szkolenia praktycznego do wyjeżdżenia jest 30godzin, 
+          zajęcia prowadzimy na motocykl Yamaha XJ6. Zajęcia praktyczne to dzielimy na
+          trening na placu manewrowym ul Inżynierska 6, zajezdnia MPK Świdnica. Plac to głównie manewry na rownówage, technikę
           prowadzenia. Chyba jako jedyni w Świdnicy posiadamy sprzęt do pomiaru prędkości, zatem wykonując zadania:
-          slalom szybki i omijanie przeszkody mierzymy prędkość na specjalnych urządzeniach. Tak samo będziesz
-          "zmierzony" na egzaminie na prawo jazdy. </p>
+          slalom szybki i omijanie przeszkody mierzymy prędkość na specjalnych urządzeniach. Tak samo będziesz "zmierzony" na egzaminie na prawo jazdy.
+          Naturlanie cześć praktyczna to jazdy w ruchu miejskim. Zabieramy Kursantów na jazdy po trasie egzaminacyjnej WORD Wałbrzych, aby swobodnie czuli się na egzaminie.
+          Generalnie czas trwania kursu zależy od dyspozycyjności Kursanta, liczby chetnych na kursie i także warunków pogodowych. Czasem ze względów bezpieczeństwa Kursanta jazdy w warunkach obfitych opadów deszczu nie odbywają się.
+          </p>
         <h4>Cena kursu kategorii A2</h4>
         <p>
-          Na cena wplywa kilka czynnikow, miedzy innymi ceny paliw, liczba chetnych,termin wykonania szkolenia(kurs expressowy jest droższy).
-          Zatem nie ma jednej stalej ceny i moze sie zmienic przed rozpoczeciem kursu.Jednak <b>GWARANTUJEMY</b>,ze cena
+          <b>Na cenę wplywa kilka czynników:</b> miedzy innymi ceny paliw, liczba chętnych, termin - czas trwania szkolenia(kurs expressowy jest droższy), a także w top sezonie - ścisłe lato cena może być wyższa.<b>Jednak nie jest to regułą.</b>
+          Zatem nie ma jednej stalej ceny i może sie zmienic przed rozpoczeciem kursu, zatem warto dzwonić i pytać o ceny kursów.Jednak <b>GWARANTUJEMY</b>,ze cena
           pozostanie stala w czasie trwania kursu, cena twojego kursu nie zmienia sie po zapisaniu sie na kurs.
-          <b>Mozesz liczyc na dodatkowy GRATIS od Naszej szkoly jazdy:</b>
+          <b>Mozesz liczyć na dodatkowy GRATIS od Naszej szkoly jazdy:</b>
           <ul>
-           <li>Jesli byles naszym kursantem innej kategorii - lojalni Klienci</li>
-           <li>Jesli na kurs dowolnej kategorii przyprowadzisz druga osobe.</li>
+           <li>Jeśli byłes naszym Kursantem innej kategorii - lojalni Klienci , dorzucamy 1 godz jazdy GRATIS</li>
+           <li>Jeśli na kurs dowolnej kategorii przyprowadzisz drugą osobę, dorzucamy 1 godz jazdy GRATIS dla Ciebie</li>
           </ul>
-          Wtedy w cenie kursu dorzucamy 1godz jazdy gratis.A co jesli spelniasz oba warunki?? - mozesz dostac 2godz jazdy gratis lub przekazac 1godz osobie,ktora przyprowadziles ze soba.
+          A co jesli spełniasz oba warunki?? - mozesz dostac 2godz jazdy gratis lub przekazac 1godz osobie,ktorą przyprowadziles ze soba np. dziewczyna , siostra , kolega.
           <div class="alert alert-success">
-            <b>Jedno jest PEWNE, cena jest stala w czasie kursu,zatem masz pewnosc,ze kurs ukonczysz w cenie i
+            <b>Jedno jest PEWNE, cena jest stala w czasie kursu,zatem masz pewnosc,że kurs ukonczysz w cenie i
               warunkach,jakie zostaly Ci zaproponowana przed rozpoczeciem.Brak kosztów ukrytych i pułapek.
             </b>
           </div>
@@ -125,8 +128,6 @@
             zaproponowana
             przed rozpoczeciem.
           </p>
-
-        </p>
       </div>
       <!--<div class="row">-->
       <div class="col-md-6" id="cena">

@@ -56,21 +56,16 @@ include '../header2.php';
 <div class="container-fluid">
  <div class="row">
 	 <div class="col-md-6" id="opisKategorii">
-	   <h4>Kategoria C. Auta ciężarowe bez przyczepy lub z przyczepą lekką</h4>
-	   <p>Samochód ciężarowy – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu ładunków. <br>
-	   Określenie to obejmuje również samochód ciężarowo-osobowy, przeznaczony konstrukcyjnie do przewozu ładunków i osób w liczbie od 4 do 9 (łącznie z kierowcą)[1].
-       Rozporządzenie Ministra Infrastruktury z dnia 27 września 2003 r. w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu<br>
-	   oraz wzorów dokumentów w tych sprawach, w załączniku nr 4 Klasyfikacja pojazdów<br> 
-	   - Tabela nr 1 – Rodzaje i podrodzaje pojazdów - przypisuje samochody ciężarowe do  kategorii homologacyjnej N1, N2, N3.
+	   <h4>Kategoria C. Prawo Jazdy na auta ciężarowe bez przyczepy lub z przyczepą lekką</h4>
+	   <p>
+			Posiadanie prawo jazdy kategorii C pozwala na prowadzenie pojazdów samochodowych o dopuszczalnej masie całkowitej (DMC) przekraczającej  3,5t , ale z wyłączeniem autobusu.
+Jeśli zdasz egzamin na prawo jazdy kategorii C, to możesz dodatkowo prowadzić ciągnik rolniczy, pojazd wolnobieżny, pojazd określony w kategorii AM.
+Pojazd ciężarowy – jest to pojazd przeznaczony konstrukcyjnie do przewozu ładunków, towarów.
+W definicji zawiera się także pojazd ciężarowo-osobowy, gdzie możesz przewozić od 4-9 osób z kierowcą  plus ładunek. (np. pojazd strażacki , auta brygadowe, pojazdy wojskowe)
+Możesz prowadzić pojazd ciężarowy z przyczepą lekką do 750kg , ale
+gdybyś chciał prowadzić zespół pojazdów np. pojazd ciężarowy z przyczepą lub naczepą powyżej 750kg , wtedy musisz mieć prawo jazdy kategorii CE. Kursy na prawo jazdy kategorii CE także możesz zrobić u Nas. (kliknij po więcej info)
 
-		Pojazdy kategorii N to pojazdy przeznaczone głównie do przewozu ładunków, dzieli się je na 3 podkategorie:
-
-		Kategoria N1: Pojazdy kategorii N o masie maksymalnej nieprzekraczającej 3,5 tony.
-		Kategoria N2: Pojazdy kategorii N o masie maksymalnej przekraczającej 3,5 tony, ale nieprzekraczającej 12 ton.
-		Kategoria N3: Pojazdy kategorii N o masie maksymalnej przekraczającej 12 ton.
-		Kategoria pojazdu ustalana jest w procesie homologacji typu pojazdu albo dopuszczenia jednostkowego na podstawie cech pojazdu<br>
-		określonych w załączniku nr 2 Dyrektywy 2007/46/WE. Kategoria pojazdu podana jest w dowodzie rejestracyjnym pojazdu pod literą „J”.
-       </p>
+    </p>
 	 </div>
 	 <div class="col-md-6" id="opisKategorii">
 		<h4>Man TGL12.240 Kategoria C w Świdnicy,Strzegomiu, Dzierżoniowie, Bielawie.</h4>
@@ -87,12 +82,11 @@ include '../header2.php';
 	<h4>Kategoria C pozwala na transport do 12t w różnych zabudowach aut.</h4>
 	</div>
 	<div class="col-md-6" id="warunki">
-	   <h4>Warunki jakie potrzebujesz spełnic,aby posiadać kategorię C - ciężarowe</h4>
+	   <h4>Ile muszę mieć lat, żeby móc zrobić prawo jazdy kategorii C.??<br>
+Jakie warunki formalne na kat C?
+</h4>
 	   <p>
-	    Samochód ciężarowy może prowadzić osoba posiadająca prawo jazdy kategorii C<br>
-		(w przypadku lekkich samochodów ciężarowych o dopuszczalnej masie całkowitej od 3,5 do 7,5 tony wystarczy kategoria C1).<br>
-		W przypadku kierowania zespołem pojazdów (samochód ciężarowy wraz z przyczepą lub naczepą) wymagane jest również posiadanie<br>
-		prawa jazdy kategorii E.
+	    
 		</p>
 		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
 		<h4>Prawo jazdy kategorii C do zrobienia z Wirażem w Świdnicy.</h4> 

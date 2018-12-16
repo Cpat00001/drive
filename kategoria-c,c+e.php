@@ -32,14 +32,12 @@
 	<div class="row">
 	 <div class="col-md-12" id="banner1">
 		<div class="col-md-12" id="banner2">
-		<h4 style="color:yellow">Witaj w sekcji wagi ciężkiej i zawodowych kierowców.<br>
-		Wybierz jedną z kategorii ciężarowych poniżej. Ciężarowe C - 'solo', 
+		<h4 style="color:yellow ; line-height:1.5;">Witaj w sekcji wagi ciężkiej i zawodowych kierowców.<br>
+		Wybierz jedną z kategorii ciężarowych poniżej.<br> Ciężarowe C - 'solo', 
 		ciężarowe CE - z przyczepą lub szkolenie na przewóz rzeczy i osób.
-		A jeśli nie masz prawa jazdy B, a zamarzyłeś o ciężarówce wybierz pakiet "Od zera do transportera". Zapraszamy</h4>
-		<h4>Specjalna oferta dla tej kategorii. Wezwanie do dzialania</h4>
-		<h4> tutaj wpisujesz co uwazasz za nowosc lub ciekawa oferta obecnie dla tej kategorii</h4>
-		<h4>osoba odwiedzajaca te podstrone dowiaduje sie o ofercie/konkursie wsrod uczestnikow kursu kat C np kamizelka odblaskowa + rekawice gratis</h4>
-		<p>po wiecej info o dane jkategorii przechodzi do wybranej kategorii ciezarowych np C lub C+E lub Przewoz rzeczy</p>
+		Zapraszamy</h4>
+		<h4></h4>
+		<h4 style="line-height:1.5;">Zapraszamy na pełne kursy prawa jazdy kategorii C i CE , ale także osoby, które uczyły się w innych szkołach, a u nas chcieliby doszkolić się, dokupić kilka godzin lub przekonać o poziomie naszych szkoleń.<br>Przekonaj się, że mamy WSZYSTKO,abyś zdał na prawo jazdy kategori C i CE. Zapraszamy</h4>
 		</div>
 	 </div>
 </div>
@@ -59,7 +57,7 @@
 	  <div class="col-md-4">
 		  <div class="tytulpakietu">
 			<p>Pakiet z B na C</p>
-			<h4>Kierowca ciężarówki "solo"</h4>
+			<h4>Kierowca ciężarówki "solo". Kategoria C.</h4>
 		  </div>
 		  <div class="fotopakietu">
 		    <a href="ciezarowe/naukajazdy_kategoriaC.php"><img src="./images/Fire-truck.png" style="width:100%;height:300px" class="imgopacity"></a>
@@ -67,8 +65,8 @@
 	  </div>	
 	  <div class="col-md-4">
         <div class="tytulpakietu">	  
-			<p>Pakiet z B na C + E</p>
-			<h4>Kierowca ciężarówki z przyczepą</h4>
+			<p>Pakiet z C na C + E (przyczepa)</p>
+			<h4>Kierowca ciężarówki z przyczepą. Kategoria CE</h4>
 	  </div>
 	   <div class="fotopakietu">
 		    <a href="ciezarowe/naukajazdy_kategoriaCE.php"><img src="./images/prawo_jazdyCE.jpg" style="width:100%;height:300px" class="imgopacity"></a>
