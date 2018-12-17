@@ -4,7 +4,7 @@
  <title>Szkolenia przewóz osób i rzeczy w Świdnicy,Strzegomiu,Dzierżoniowie.</title>
  <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
- <meta name="description" content="Nauka Jazdy Wiraż w Świdnicy wykonuje szkolenia okresowe na przewóz osób i rzeczy, a także Kwalifikacja Wstępna Przyśpieszona i Kwalifikacja Wstępna uzupełniająca.Prawo jazdy kategorii C iCE oraz kwalifikacje na przewóz osób i rzeczy to niezbędny zestaw,aby pracować jako kierowca w transporcie.">
+ <meta name="description" content="Nauka Jazdy Wiraż w Świdnicy wykonuje szkolenia okresowe na przewóz osób i rzeczy, a także Kwalifikacja Wstępna Przyśpieszona i Kwalifikacja Wstępna. Prawo jazdy kategorii C, CE i D oraz kwalifikacje na przewóz osób i rzeczy to niezbędny zestaw, aby pracować jako kierowca w transporcie.">
  <meta name="keywords" content="kurs na przewóz rzeczy świdnica,kwalifikacja wstępna świdnica,kwalifikacja wstępna przespieszona,prawo jazdy,świadectwo
 kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców dzierżoniów,nauk ajzdy bielawa,transport kierowcy praca świdnica">
 <!--CSS Bootstrap-->
@@ -13,6 +13,9 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
 <link rel="stylesheet" type="text/css" href="../stylekategoria.css">
 <!--file style2.css needed for styling pop up banners cookie + welcome-->
 <link rel="stylesheet" href="../style2.css">
+<!--Social media buttons-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../stylekategoria.css">
 </head>
 <body data-spy="scroll" data-target="#menu" onload="checkCookie() ; checkBanner();">
   <!--this site will have two navbars -external for subwebsite nad below internal navbar sections-->
@@ -25,19 +28,16 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
   <nav class="navbar navbar-expand-md bg-secondary navbar-dark" id="menu">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#opisKategorii"> Kwalifikacja wstępna - przyśpieszona</a>
+        <a class="nav-link" href="#kwalifikacja1">Kwalifikacja wstępna</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#warunki">Kwalifikacja wstępna uzupełniająca </a>
+        <a class="nav-link" href="#kwalifikacja2">Kwalifikacja wstępna przyśpieszona</a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="#kwalifikacja3">Kwalifikacja okresowa</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#cena">Czas trwania kursu i warunki formalne.</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#kontakt">Różnice i specyfikacje kursów</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#kontakt">Ceny i Kontakt</a>
+        <a class="nav-link" href="#kontakt">Kontakt</a>
       </li>
 
     </ul>
@@ -45,50 +45,56 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
   <!-- description of category-->
   <div class="container-fluid">
    <div class="row">
-     <div class="col-md-8" id="opisKategorii">
-      <h3>Kwalifikacja wstępna - przyspieszona</h3>
-      <p>Kurs kwalifikacji wstępnej przyspieszonej jest przeznaczony dla kierowców, którzy chcą pracować w zawodzie kierowcy
-        samochodu ciężarowego lub autobusu. Dawny kurs przewozu rzeczy lub osób został zastąpiony dyrektywą unijną, która
-        narzuca, aby kierowcy po 10 września 2008 na kat. D (autobus) i po 10 września 2009r na kat. C (ciężarówka) ukończyli
-        właśnie kurs kwalifikacji wstępnej. Dlatego jest on często nazywany np. kursem kwalifikacji wstępnej do przewozu osób
-        lub rzeczy. Ma ona ułatwić dostęp do pracy w krajach Unii Europejskiej, ponieważ wszyscy kierowcy pochodzący z krajów
-        UE będą mieli jednakowe uprawnienia. Kurs kwalifikacji wstępnej przyspieszonej został wprowadzony zmianami, które
-        weszły w życie 1 kwietnia 2010r. ponieważ jak się okazało, kurs kwalifikacji wstępnej okazał się zbyt duży a czas
-        trwania kursu zbyt długi dla wielu osób.</p>
+     <div class="col-md-8" id="kwalifikacja1">
+      <h3>Kwalifikacja wstępna</h3>
+      <p>
+        Kwalifikację wstępną może rozpocząć osoba, która ukończyła 18lat.<br>
+        Kursy przeznaczone są dla osób w wieku 18 - 21lat<br>
+        Ten kurs można rozpocząć nie posiadając jeszcze prawo jazdy.<br>
+        Kurs składa się z zajęć teoretycznych 260godzin i zajęc praktycznych 20godz, w skład których wchodzi jazda w ruchu drogowym i jazda na płycie poślizgowej - 4 godziny.<br>
+        Szkolenie kończy się egzaminem.<br> 
+        Kursantowi, który uzyska wynika pozytywny wydane zostanie <b>świadectwo kwalifikacji zawodowej.</b>w terminie 7 dni.<br>
+        Jeśli uzyskałeś zbyt małą liczbę punktów na teście kwalifikacyjnym, możesz podejść do egzaminu ponownie, w OSK gdzie ukończyłeś szkolenie.
+        <br>
+        Więcej informacji i szczegóły o rozpoczynającym się szkoleniu na <b>telefon 691 806 913.</b>
+      </p>
+      <h4>Wymagania formalne na kwalifikacje</h4>
+      <p>
+        - dotyczy kierowców prowadzących pojazdy : C1 , C1+E , C , C + E , D1 , D1 + E , D , D + E
+        - orzecznie lekarskie o braku przeciwskazań do pracy jako kierowca<br>
+        - orzeczenie psychologiczne o braku przeciwskazań do pracy jako kierwca<br>
+        - musisz mieć odpowiedni wiek dla danej kwalifikacji<br>
+        - nie jest wymagane prawo jazdy
+      </p>
      </div>
-    <div class="col-md-4" id="opisKategorii">
+    <div class="col-md-4" id="kwalifikacja1">
       <!--Badge-->
       <h1>Zapisy indywidualnie<span class="badge badge-secondary">tel: 691 806 913</span></h1>
+      <img class="card-img-top" src="../images/Wojtek_salka_testyPrzewozy_Fotor.jpg" alt="Card image cap" style="height:300px">
     </div>
    </div>
   </div>
   <!-- description of category-->
-  <div class="container-fluid" id="warunki">
+  <div class="container-fluid" id="kwalifikacja2">
     <div class="row">
       <div class="col-md-8">
-        <h3>Kwalifikacja wstępna - przyspieszona</h3>
-        <p>Kurs kwalifikacji wstępnej przyspieszonej jest przeznaczony dla kierowców, którzy chcą pracować w zawodzie
-          kierowcy
-          samochodu ciężarowego lub autobusu. Dawny kurs przewozu rzeczy lub osób został zastąpiony dyrektywą unijną,
-          która
-          narzuca, aby kierowcy po 10 września 2008 na kat. D (autobus) i po 10 września 2009r na kat. C (ciężarówka)
-          ukończyli
-          właśnie kurs kwalifikacji wstępnej. Dlatego jest on często nazywany np. kursem kwalifikacji wstępnej do
-          przewozu osób
-          lub rzeczy. Ma ona ułatwić dostęp do pracy w krajach Unii Europejskiej, ponieważ wszyscy kierowcy pochodzący z
-          krajów
-          UE będą mieli jednakowe uprawnienia. Kurs kwalifikacji wstępnej przyspieszonej został wprowadzony zmianami,
-          które
-          weszły w życie 1 kwietnia 2010r. ponieważ jak się okazało, kurs kwalifikacji wstępnej okazał się zbyt duży a
-          czas
-          trwania kursu zbyt długi dla wielu osób.</p>
+        <h3>Kwalifikacja wstępna - przyśpieszona</h3>
+        <p>
+          Kursant musi mieć wiek 21 lat.<br>
+          Jeśli dla kategorii D, wtedy wiek 23 lata.<br>
+          Szkolenie obejmuje 130 godzin teorii i 10 godzin zajęć praktycznych.<br>
+          W ramach zajęć praktycznych na jazdę w ruchu drogowym jest przeznaczone 8 godzin, natomiast 2 godziny na płycie poślizgowej.<br>
+          Szkolenie kończy sie egzaminem. Po uzyskaniu pozytywnego wyniku , kierowca otrzymuje Świadectwo Kwalifikcaji Zawodowej. <br>
+          Wydane świadectwo kwalifikacji jest ważne przez okres 5lat , następnie jesli chcesz kontynuować przygodę nalezy odświeżyć kwalifikacje - szkolenie okresowe. <br>
+          Po uzyskaniu Świdectwa Kwalifikacji należy udać sie do Wydziału Komunikacji w Urzedzie Miejskim, dostaniesz odpowiedni wpis do prawo jazdy potwierdzający poszerzenie zdobytych uprawnień<br>
+        </p>
       </div>
       <div class="col-md-4">
         <!--Card-->
         <div class="card" style="width: 100%;">
           <img class="card-img-top" src="../images/przewozRzeczy.jpg" alt="kwalifikacja wstepna przewoz rzeczy">
           <div class="card-body">
-            <p class="card-text"><b style="color:white;">Szkolenia na kontenery i mocowanie ładunków</b></p>
+            <p class="card-text"><b style="color:white;">Prawo jazdy + świadectwo kwalifikacji zawodowej = praca kierowcy.</b></p>
           </div>
         </div>
       </div>
@@ -127,25 +133,15 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
     </div>
   </div>
     <!-- description of category-->
-    <div class="container-fluid">
+    <div class="container-fluid" id="kwalifikacja3">
       <div class="row">
         <div class="col-md-8">
-          <h3>Kwalifikacja wstępna - przyspieszona</h3>
-          <p>Kurs kwalifikacji wstępnej przyspieszonej jest przeznaczony dla kierowców, którzy chcą pracować w zawodzie
-            kierowcy
-            samochodu ciężarowego lub autobusu. Dawny kurs przewozu rzeczy lub osób został zastąpiony dyrektywą unijną,
-            która
-            narzuca, aby kierowcy po 10 września 2008 na kat. D (autobus) i po 10 września 2009r na kat. C (ciężarówka)
-            ukończyli
-            właśnie kurs kwalifikacji wstępnej. Dlatego jest on często nazywany np. kursem kwalifikacji wstępnej do
-            przewozu osób
-            lub rzeczy. Ma ona ułatwić dostęp do pracy w krajach Unii Europejskiej, ponieważ wszyscy kierowcy pochodzący z
-            krajów
-            UE będą mieli jednakowe uprawnienia. Kurs kwalifikacji wstępnej przyspieszonej został wprowadzony zmianami,
-            które
-            weszły w życie 1 kwietnia 2010r. ponieważ jak się okazało, kurs kwalifikacji wstępnej okazał się zbyt duży a
-            czas
-            trwania kursu zbyt długi dla wielu osób.</p>
+          <h3>Kwalifikacja okresowa.</h3>
+          <p>
+            Posiadasz już Świadectwo Kwalifikcaji Zawodowej, jednak każdy kierowca jest zobowiązny przepisami przechodzić <b>szkolenia okresowe</b>. Celem takiego szkolenia jest odświeżenie wiedzy teoretycznej i praktycznej. Przedłużenie ważności kodu (95) w swoim prawie jazdy.<br>
+            Szkolenie trwa 35 godzin teorii , w tym 21 godzin zajęć z częsci podstawowej i 14 godzin w zależności od zakresu obowiązków kierowcy.<br>
+            Szkolenie może być prowadzone 7godzin dziennie, minimalna ilość dni szkolenia to 5.
+            Tematyka szkolenia dotyczy bezpieczeństwa w ruchu drogowym, a także poprawy komfortu i przygotowania stanowiska pracy kierowcy, tak, aby poprawić bezpieczeństwo pracy.</p>
         </div>
         <div class="col-md-4">
           <!--Badge-->
@@ -169,7 +165,16 @@ kwalifikacji zawodowej świdnica strzegom, dzierżoniów,szkolenia na kierowców
             <h4>email: wirazmoto@gmail.com</h4>
             <p>emailowo odpowiedz moze trwac nieco dluzej</p>
             <h4>Nasz Facebook i youTube</h4>
-            <p>podaj tutj linki do social media</p>
+              <!--Social media-->
+                <div class="row">
+                  <div class="d-flex p-2 col-md-6">
+                    <a href="https://pl-pl.facebook.com/WIRA%C5%BB-Nauka-Jazdy-519615298076176/" class="fa fa-facebook" style="width:100px;"></a>
+                  </div>
+                  <div class="d-flex p-2 col-md-6">
+                  <a href="https://www.youtube.com/channel/UCz0GjD2qzw2h1K4kf4yIHMQ" class="fa fa-youtube" style="width:100px;"></a>
+                  </div>
+                </div>
+      <!--koniec social-->
           </div>
       
       

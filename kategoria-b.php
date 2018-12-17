@@ -50,7 +50,7 @@
  <div class="row">
    <div class="col-md-6" id="opisKategorii">
     <h4>Kursy Prawo Jazdy autem osobowym, kategoria B Świdnica , Strzegom, Dzierżoniów, Bielawa.</h4>
-    <p>Ta kategoria prawo jazdy wlaściwie najcześciej rozpoczyna Twoją przygodę z autami i poruszniem się po drogach za kierownicą samochodu. Kategoria B wybierana jest przez młodzież oraz osboy,które potrzebują być mobilne w życiu prywatnyn, ale także i zawodowym. Dokument prawa jazdy tej kategorii wymagany jest także w pracy: np. auto służbowe, przedstawiciel handlowy, kurier, serwisant z dojazdem do Klienta itp.<br>
+    <p>Ta kategoria prawo jazdy wlaściwie najcześciej rozpoczyna Twoją przygodę z autami i poruszniem się po drogach za kierownicą samochodu. Kategoria B wybierana jest przez młodzież oraz osoby, które potrzebują być mobilne w życiu prywatnyn, ale także i zawodowym. Dokument prawa jazdy tej kategorii wymagany jest także w pracy: np. auto służbowe, przedstawiciel handlowy, kurier, serwisant z dojazdem do Klienta itp.<br>
 	<b>Co mogę prowadzić mając prawo jazdy tej kategorii?</b><br>
 	Hmm wedlug definicji z kodeksu drogowego....</br>
   pojazdami określonymi dla prawa jazdy kategorii AM, motorowery,<br> samochody osobowe i dostawcze do 3,5DMC 
@@ -101,17 +101,17 @@
         <div class="col-md-6" id="cena">
         <h4>Ile trwa kurs prawo jazdy kategorii B?</h4>
           <p>Szkolenie teoretyczne, tutaj jest 30godzin, ale jeśli czujesz się na siłach do egzaminu teoretycznego możesz
-            przystapić sam, bez szkolenia teoretycznego w w Naszej Szkole Jazdy. Nic na sile...:)Wielu z Was nie chodzi na zajęcia, obowiązki lub po prostu w dobie swobodnej informacji i przy udziale komputerów i internetu sami się przygotowujecie do egzaminu. Uważamy jednak, że warto zaiwestować swój czas i poglębiać wiedzę na temat przepisów ruchu drogowego i jazdy autem, za kierownicą jesteś zdany tylko na siebie, swoją wiedzę i umiejętności. Wyklady są dobrym miejscem do tego, jednak nic na siłę.<br>
-            Tak,wiemy doskonale.... interesuje Cie szkolenie praktyczne, tzw 'jazdy'. W ramach szkolenia praktycznego zajęcia
+            przystapić sam, bez szkolenia teoretycznego w w Naszej Szkole Jazdy Wiraż. Nic na sile...:) Wielu z Was nie chodzi na zajęcia, osobiste obowiązki lub po prostu w dobie swobodnej informacji i przy udziale komputerów i internetu sami się przygotowujecie do egzaminu. Uważamy jednak, że warto zaiwestować swój czas i pogłębiać wiedzę na temat przepisów ruchu drogowego i jazdy autem, za kierownicą jesteś zdany tylko na siebie, swoją wiedzę i umiejętności. Wykłady są dobrym miejscem do tego, jednak nic na siłę.<br>
+            Tak, wiemy doskonale.... interesuje Cię szkolenie praktyczne, tzw 'jazdy'. W ramach szkolenia praktycznego zajęcia
             prowadzimy na Toyota Yaris. Samochod jest <b>IDENTYCZNY</b> jak w <b>WORD Swidnica i Wałbrzych</b>, gdzie
             najprawdopodobniej będziecie Państwo zdawać na prawo jazdy kategorii B. Praktyka to zajęcia na placu manewrowym ul Inżynierska 6,
-            zajezdnia MPK Świdnica. Plac to szkolenie podstaw, wyczucie pojazdu, sprzegla, hamulca,gazu, wymiarow auta, technikę
+            zajezdnia MPK Świdnica. Plac to szkolenie podstaw, wyczucie pojazdu, sprzegla, hamulca, gazu, wymiarów auta, technikę
             prowadzenia. Oczywiscie jest też łuk - jazda przodem i tylem z zatrzymaniem w wyznaczonym polu. Dodatkowo sa zadania
             z obslugi pojazdu. Naturalnie, ze jeżdzimy "po mieście", sporo czasu poświecamy na ruch miejski i zadania w ruchu
-            miejskim, szczególnie w strefach hegzaminacyjnych, abys czuł sie przygotowany do egzaminu.
-            Jeśli nie znalazłeś jakiś informacji na stronie prosimy o kontakt email lub telefonicznie,odpowiemy na pytania. Więcej o nas także na naszym Facebooku i YouTube.
+            miejskim, szczególnie w strefach egzaminacyjnych, abyś czuł sie przygotowany do egzaminu.
+            Jeśli nie znalazłeś jakiś informacji na stronie prosimy o kontakt email lub telefonicznie, odpowiemy na pytania. Więcej o nas także na naszym Facebooku i YouTube.<b> Szukaj Świdnica Wiraż Facebook</b> lub odszukaj "fejsa" na naszej stronie.
             <br>
-            Tymczasem zapraszamy do śledzenia nas na Facebooku i YouTube</p>
+            Zapraszamy do śledzenia nas na Facebooku i YouTube</p>
             <div class="alert alert-success">
               Dodatkowo mamy w ofercie krótkie kursy doszkalajace dla osób, które długo nie jeździły lub po prostu chcą oprócz kursu podstawowego dowiedzieć się więcej, tutaj kursant
               spotyka sie z sytuacjami wykraczajacymi poza podstawowe 30h szkolenia przygotowujacego do egzaminu. Szczegóły na
@@ -143,18 +143,24 @@
          <div class="col-md-6" id="cena">
            <h4>Cena kursu kategorii B Świdnica, Strzegom , Dzierżoniów</h4>
                     <p>
-                      Na cena wplywa kilka czynników, miedzy innymi ceny paliw, liczba chętnych,termin wykonania szkolenia(kurs
+                      Na cena wpływa kilka czynników, miedzy innymi ceny paliw, liczba chętnych,termin wykonania szkolenia(kurs
                       expressowy jest droższy).
                       Zatem nie ma jednej stalej ceny i moze się zmienic w ciągu roku. Jednak <b>GWARANTUJEMY</b>, że cena
                       pozostanie stala w czasie trwania kursu, cena Twojego kursu nie zmienia sie po zapisaniu sie na kurs.<br>
                       <b>Raty</b> naturalnie , to jest zupełnie oczywista sprawa. Możesz płacić w ratach , tyle rat, ile potrzebujesz i w kwocie, na jaką możesz sobie pozwolić.
                       Jazdy wyjeżdżane są proporcjonalnie do wpłaty - zupełnie jak na karuzeli, wrzucasz monetę i jezdzisz okreslony czas.<br>
                       <b>Możesz liczyć na dodatkowy GRATIS od Naszej szkoly jazdy jeśli:</b> 
-                      <br> 
-                      byłes naszym kursantem innej kategorii w cenie
-                      dorzucamy 1godz jazdy gratis - lojalni klienci.<br> 
-                      Możesz otrzymać rownież 1godz jazdy gratis, jesli na kurs
-                      dowolnej kategorii przyprowadzisz drugą osobę.<br>
+                      <br>
+                      <ul> 
+                          <li>byłes naszym kursantem innej kategorii w cenie
+                          dorzucamy 1godz jazdy gratis - lojalni klienci.
+                          </li><br>
+                          <li> 
+                          Możesz otrzymać rownież 1godz jazdy gratis, jesli na kurs
+                          dowolnej kategorii przyprowadzisz drugą osobę.
+                          </li>
+                      </ul>
+                      <br>
                        A co jesli spełniasz oba warunki - możesz dostać 2godz jazdy
                       gratis lub przekazać 1godz osobie, która przyprowadziles ze soba na kurs.
                       <div class="alert alert-success">

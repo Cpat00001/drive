@@ -34,9 +34,9 @@
     <div class="row">
       <div class="col-md-12" id="banner1">
         <div class="col-md-12" id="banner2">
-		<h4>Witaj w sekcji dla miłośników motocykli - poczucia wolności i swobody,niebanalnych i bezkompromisowych wrażeń.</h4><br>
+		<h4>Witaj w sekcji dla miłośników motocykli - poczucia wolności i swobody, niebanalnych i bezkompromisowych wrażeń.</h4><br>
 		<b>Wybierz jedną z kategorii motocyklowych poniżej.</b>
-		<p><b style="color:white">Kategoria A - to klasa zdecydowanie najmocniejsza, prestiżowa, królewska. Tutaj warto mieć już wcześniejsze doświadczenie z motorami,lub wiedzieć co się robi na drodze.<br>
+		<p><b style="color:white">Kategoria A - to klasa zdecydowanie najmocniejsza, prestiżowa, królewska. Tutaj warto mieć już wcześniejsze doświadczenie z motorami, lub wiedzieć co się robi na drodze.<br>
 		Kategoria A2 - klasa motocykli do 600cm. Rozsądek i zaplanowany progress.<br>
 		Kategoria A1 - dla rozpoczynających przygodę z motocyklami.<br>
     Kategoria AM - to motorowery do 50cm3. Oferta dla osób do 18 roku życia.

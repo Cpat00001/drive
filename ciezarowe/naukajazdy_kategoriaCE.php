@@ -62,31 +62,20 @@ include '../header2.php';
     <div class="row">
       <div class="col-md-6" id="opisKategorii">
         <h2>Nauka Jazdy kategoria CE Świdnica. Prawo jazdy na ciężarowe z przyczepą.</h2>
-        <b><p>Opis techniczny kategorii CE oraz pojazdy kategorii CE.</p></b>
-        <p>Samochód ciężarowy – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu ładunków. <br>
-          Określenie to obejmuje również samochód ciężarowo-osobowy, przeznaczony konstrukcyjnie do przewozu ładunków i
-          osób w liczbie od 4 do 9 (łącznie z kierowcą)[1].
-          Rozporządzenie Ministra Infrastruktury z dnia 27 września 2003 r. w sprawie szczegółowych czynności organów w
-          sprawach związanych z dopuszczeniem pojazdu do ruchu<br>
-          oraz wzorów dokumentów w tych sprawach, w załączniku nr 4 Klasyfikacja pojazdów<br>
-          - Tabela nr 1 – Rodzaje i podrodzaje pojazdów - przypisuje samochody ciężarowe do kategorii homologacyjnej
-          N1, N2, N3.
+        <b><p>Opis kategorii E do C oraz pojazdy kategorii CE.</p></b>
+        <p>
+          Ta kategoria prawo jazdy uprawnia do kierowania pojazdem określonym w kat C łącznie z przyczepą.(np. przyczepa tandem , przyczepa wywrotka, naczepa, każda dowolna przy-czepa do auta ciężarowego) <br>
+          Posiadając prawo jazdy kategorii CE możesz prowadzić pojazdy BE, warunkiem jest posiadanie dokumentu prawa jazdy kategorii B. (osobowe) <br>
+          Po zdanym egzaminie na prawo jazdy CE możesz również jeździć ciągnikiem rolniczym z 
+          przyczepą lub przyczepami, lub pojazdem wolnobieżnym z przyczepą lub przyczepami.
+          Zestaw do szkolenia w naszej szkole jazdy, to pojazd i przyczepa  identyczna jak na egzaminie w WORD Wałbrzych i/lub WORD Wrocław.<br>
+          Auto ciężarowe marki MAN TGL12.240 zabudowa plandeka i przyczepa tandem również kryta plandeką.
 
-          Pojazdy kategorii N to pojazdy przeznaczone głównie do przewozu ładunków, dzieli się je na 3 podkategorie:
-
-          Kategoria N1: Pojazdy kategorii N o masie maksymalnej nieprzekraczającej 3,5 tony.
-          Kategoria N2: Pojazdy kategorii N o masie maksymalnej przekraczającej 3,5 tony, ale nieprzekraczającej 12
-          ton.
-          Kategoria N3: Pojazdy kategorii N o masie maksymalnej przekraczającej 12 ton.
-          Kategoria pojazdu ustalana jest w procesie homologacji typu pojazdu albo dopuszczenia jednostkowego na
-          podstawie cech pojazdu<br>
-          określonych w załączniku nr 2 Dyrektywy 2007/46/WE. Kategoria pojazdu podana jest w dowodzie rejestracyjnym
-          pojazdu pod literą „J”.
         </p>
       </div>
       <div class="col-md-6" id="opisKategorii">
         <img src="../images/prawo_jazdyCE.jpg" alt="kategoriaC_Swidnica" style="width:100%;height:300px">
-        <h4>Man TGL12.240 z przyczepą Kategoria CE w Świdnicy,Strzegomiu,Dzierżoniowie,Bielawie i Świebodzice.</h4>
+        <h4>Man TGL12.240 z przyczepą Kategoria CE w Świdnicy, Strzegomiu, Dzierżoniowie, Bielawie i Świebodzice.</h4>
 
         <!--card-->
         <div class="card" style="width: 100%">
@@ -108,16 +97,23 @@ include '../header2.php';
         <h4>Kategoria CE pozwala na transport z przyczepą lub naczepą.</h4>
       </div>
       <div class="col-md-6" id="warunki">
-        <h4>Co powinienem spełnić,aby posiadać kategorię CE - ciężarowe z przyczepą.</h4>
+        <h4>Co powinienem spełnić, aby posiadać kategorię CE - ciężarowe z przyczepą.</h4>
         <p>
-          Samochód ciężarowy może prowadzić osoba posiadająca prawo jazdy kategorii C<br>
-          (w przypadku lekkich samochodów ciężarowych o dopuszczalnej masie całkowitej od 3,5 do 7,5 tony wystarczy
-          kategoria C1).<br>
-          W przypadku kierowania zespołem pojazdów (samochód ciężarowy wraz z przyczepą lub naczepą) wymagane jest
-          również posiadanie<br>
-          prawa jazdy kategorii E.
+          Tutaj warunki są podobne jak w kategorii C , ale dla jasności powtórzymy. <br>
+          - wymagany wiek na kurs prawa jazdy kategorii CE to 21 lat ( UWAGA , kurs można rozpocząć 3 miesiące przed wymaganym wiekiem 21 lat)<br>
+          - aby posiadać prawo jazdy kat E, wymagane jest posiadanie prawa jazdy kat C. Taką kategorię naturalnie możesz zrobić u nas<br>
+          - należy w szkole jazdy Wiraż przedłożyć profil kandydata na kierowcę (PKK)<br>
+
+          <h4>Jak uzyskać profil kandydata na kierowcę(PKK)?</h4>
+          - badania lekarskie na prawo jazdy CE możesz zrobić u lekarza, który współpracuje z nasza szkoła jazdy od lat. Orzeczenie lekarskie stwierdza o braku przeciwskazań do prowadzenia pojazdów.<br>
+          - musisz mieć orzeczenie psychologiczne o braku przeciwskazań do kierowania pojazdem<br>
+          - potrzebujesz aktualną , wyraźną , kolorową fotografię, wymiar 3,5 x 4,5cm (podobne jak do paszportu)<br>
+          - wymienione dokument należy przedłożyć w Starostwie Powiatowym . U nas w Świdnicy jest na ul. Marii Skłodowskiej-Curie 7. Wydział komunikacji.<br>
+
+          Jeśli Starostwo Powiatowe przydzieli Ci numer PKK należy go przedstawić wraz z numer PESEL w naszej szkole jazdy i zapisać się na Kurs i zaczynasz szkolenie.
+
         </p>
-        <h4>Przekonaj się,że mamy wszystko,abyś przygotowal posiadał prawo jazdy na ciężarowe.</h4><br>
+        <h4>Przekonaj się,że mamy WSZYSTKO, abyś przygotowal posiadał prawo jazdy na ciężarowe.</h4><br>
         <h4>Prawo jazdy kategorii C do zrobienia z Wirażem w Świdnicy.</h4>
       </div>
     </div>
@@ -125,13 +121,32 @@ include '../header2.php';
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6" id="cena">
-        <h4>Jaka jest cena kategorii CE Szkole jazdy Wiraż w Świdnicy?Jaki jest czas trwania kursu CE? </h4>
+        <h4>Jaka jest cena kategorii CE Szkole jazdy Wiraż w Świdnicy? Jaki jest czas trwania kursu CE? </h4>
         <p>
-          <b>Cena.</b>Kształtujemy ceną w taki sposob,aby była ona konkurencyjna i atrakcyjna na rynku.<br>
-          Cena jest kwestia do negocjacji i podawana jest Klientowi przed rozpoczęciem kursu.Na cenę wpływa kilka czynników, zatem może się ona różnic w trakcie roku kalendarzowego. Dodatkowo jeśli byłeś naszym Kursantem innej kategorii np motor, osobowe, wtedy dla naszych wracających Kursantów dorzucamy w cenie <b>1godz jazdy GRATIS, to DUŻY PLUS.</b><br>
-          <div class="alert alert-success">
+                  Na szkolenie kat E (przyczepa) składa się 25 godzin zajęć praktycznych. 
+        W ramach jazd do opanowania są zadania na placu manewrowym , w tym także sprzęganie i rozprzęganie pojazdu silnikowego z przyczepą przy zachowaniu zasad bezpieczeństwa BHP oraz bez stwarzania zagrożenia uszkodzenia pojazdu/przyczepy lub stworzenia zagrożenia dla osób przebywających na placu manewrowym.
+        Naturalnie w czasie kursu wykonywane są jazdy w ruchu miejskim, w tym <b>OCZYWIŚCIE</b> po trasach egzaminacyjnych strefy WORD Wałbrzych.
+        Czas trwania kursu zależy od ilości osób na kursie, ale także dyspozycji kursanta. Generalnie kurs trwa około 3- 4 tygodni, możliwe jest także wykonanie przyspieszonego kursu.
+        Żeby otrzymać zaświadczenie o ukończeniu kursu kat CE należy zdać egzamin wewnętrzny z jazd w Szkole Jazdy wiraż.
+
+        <h4>Cena kursu kategorii CE.</h4>
+        Kształtujemy ceną w taki sposob, aby była ona konkurencyjna i atrakcyjna na rynku.
+        Cena jest kwestia do negocjacji i podawana jest Klientowi przed rozpoczęciem kursu. Na cenę wpływa kilka czynników, zatem może się ona różnic w trakcie roku kalendarzowego. Najlepiej kontaktować się z nami na numer 691 806 913 , w celu sprawdzenia ceny bieżącej.
+        Dla naszych Kursantów z innych kategorii np. motory, osobowe <b>dorzucamy dodatkową 1 godz jazdy GRATIS w cenie regulaminowych 25godz. 
+        Zatem masz 26godz w cenie 25godz, to duzy plus, aby podszkolić się przed egzaminem, każda godzina dodatkowa się przyda przed egzaminem państwowym na WORD.</b>
+
+        Jeśli z jakiś względów kursant nie opłaca kolejnych jazd lub nie jest dyspozycyjny, wtedy czas trwania kursu naturalnie wydluża się.<br>
+        
+         <div class="alert alert-success">
           <b>Co ważne, Brak kosztow ukrytych.</b><br>Cena jaka została Ci zaproponowana obowiązuje do końca i pozostaje bez zmian. Kurs należy wykonać w okresię 6 miesięcy od zapisania się na szkolenie.
           </div>
+
+        <br>
+        WIRAŻ jest skuteczną opcją, wybierz nasze szkolenia, przekonaj się,że posiadamy wszystko,co jest Ci niezbędne,żeby posiadac pra-wo jazdy kat C i CE.<br>
+        <b>Jakość szkolenia.</b> Wykonując już kilkanaście lat szkolenia na kategorię C i CE wyedukowaliśmy setki kierowcow, przejechaliśmy tysiące godzin i kilometrów. Wypracowaliśmy metody szkoleniowe, które przynoszą interesujące efekty jeśli chodzi o zdawalność. Przede wszystkim kładziemy nacisk na jakość/poziom szkolenia i obsługę Klienta. Za II polrocze 2016 wedlug Starostwa zajelismy 1-wsze MIEJSCE w kategorii szkol powy-zej 100 Kursantow, we wszystkich szkolach bez wzgledu na liczbe kursantow jestesmy w scislej czolowce. Zapraszam do skontaktowania się z nami i poznanią naszych mocnych stron i możliwości. Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.
+        Zapraszamy Kursantów z innych szkół,ktorzy chcieliby zapoznać się z budową auta eg-zaminacyjnego lub odswiezyć wiedzę przed egzaminem. Dobrze przejechać się przed egzaminem,aby wyczuć gabaryty auta.
+        </p>
+        <br>
           <div class="alert alert-danger">
           Istnieje możliwość rat według Państwa potrzeb i możliwości - więcej informacji tel 691 806 913 lub w biurze.
           </div>
@@ -153,12 +168,14 @@ include '../header2.php';
           Zapraszamy Kursantów z innych szkół,ktorzy chcieliby zapoznać się z budową auta egzaminacyjnego lub odswiezyć wiedzę przed egzaminem. Dobrze przejechać się przed egzaminem,aby wyczuć gabaryty auta.
         </p>
         <div class="alert alert-danger">
-          <p><b>Przekonaj się,że mamy wszystko,abyś posiadał prawo jazdy na ciężarowe.</b></p>
+          <p><b>Przekonaj się, że mamy wszystko, abyś posiadał prawo jazdy na ciężarowe.</b></p>
         </div>
       </div>
       <div class="col-md-6" id="cena">
         <img src="../images/kategoriaCE_praca_transport.png" alt="kategoriaCE_Swidnica_nauka_jazdy_transport" style="width:100%;height:500px">
+        <br><br>
         <h4>Kursy Prawo jazdy kategorii CE z Wirażem to solidne fundamenty i przygotowanie do egzaminu.</h4>
+        <br>
         <img src="../images/jazda_ciezarowe_nauka_swidnica.jpg" alt="kategoriaCE_Swidnica_nauka_jazdy_transport" style="width:100%;height:500px">
       </div>
     </div>

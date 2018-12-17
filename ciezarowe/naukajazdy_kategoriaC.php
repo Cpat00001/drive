@@ -63,7 +63,7 @@ Jeśli zdasz egzamin na prawo jazdy kategorii C, to możesz dodatkowo prowadzić
 Pojazd ciężarowy – jest to pojazd przeznaczony konstrukcyjnie do przewozu ładunków, towarów.
 W definicji zawiera się także pojazd ciężarowo-osobowy, gdzie możesz przewozić od 4-9 osób z kierowcą  plus ładunek. (np. pojazd strażacki , auta brygadowe, pojazdy wojskowe)
 Możesz prowadzić pojazd ciężarowy z przyczepą lekką do 750kg , ale
-gdybyś chciał prowadzić zespół pojazdów np. pojazd ciężarowy z przyczepą lub naczepą powyżej 750kg , wtedy musisz mieć prawo jazdy kategorii CE. Kursy na prawo jazdy kategorii CE także możesz zrobić u Nas. (kliknij po więcej info)
+gdybyś chciał prowadzić zespół pojazdów np. pojazd ciężarowy z przyczepą lub naczepą powyżej 750kg , wtedy musisz mieć prawo jazdy kategorii CE. Kursy na prawo jazdy kategorii CE także możesz zrobić u Nas. <b><a href="naukajazdy_kategoriaCE.php">(kliknij po więcej info kategoria CE)</a></b>
 
     </p>
 	 </div>
@@ -86,10 +86,20 @@ gdybyś chciał prowadzić zespół pojazdów np. pojazd ciężarowy z przyczep�
 Jakie warunki formalne na kat C?
 </h4>
 	   <p>
-	    
+	     - wymagany wiek na kurs prawa jazdy kategorii C to 21 lat ( UWAGA , kurs można rozpocząć 3 miesiące przed wymaganym wiekiem 21 lat),br>
+				- aby posiadać prawo jazdy kategorii B, wymagane jest posiadanie prawa jazdy kat B. Taką kategorię naturalnie możesz zrobić u nas<br>
+				- należy w szkole jazdy Wiraż przedłożyć profil kandydata na kierowcę (PKK),br>
+
+				Jak uzyskać profil kandydata na kierowcę(PKK)?<br>
+				- musisz mieć orzeczenie lekarza o braku przeciwskazań do prowadzenia pojazdów. Podamy Ci kontakt do lekarza, który z nami współpracuje od lat.<br>
+				- musisz mieć orzeczenie psychologiczne o braku przeciwskazań do kierowania pojazdem<br>
+				- potrzebujesz aktualną , wyraźną , kolorową fotografię, wymiar 3,5 x 4,5cm (podobne jak do paszportu)<br>
+				- wymienione dokument należy przedłożyć w Starostwie Powiatowym . U nas w Świdnicy jest na ul. Marii Skłodowskiej-Curie 7. Wydział komunikacji.<br>
+
+				Jeśli Starostwo Powiatowe przydzieli Ci numer PKK należy go przedstawić wraz z numer PESEL w naszej szkole jazdy i zapisać się na Kurs i zaczynasz szkolenie.
+
 		</p>
-		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
-		<h4>Prawo jazdy kategorii C do zrobienia z Wirażem w Świdnicy.</h4> 
+		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy kategorii C na ciężarowe.</h4><br> 
 	</div>
   </div>
 </div>
@@ -98,15 +108,16 @@ Jakie warunki formalne na kat C?
 	<div class="col-md-6" id="cena">
 	   <h4>Czas trwania kursu i cena kategorii C Szkole jazdy Wiraż w Świdnicy</h4>
 	   <p>
-	    Cena.Kształtujemy ceną w taki sposob,aby była ona konkurencyjna i atrakcyjna na rynku.<br>
-		Cena jest kwestia do negocjacji i podawana jest Klientowi przed rozpoczęciem kursu.<br>
-		Brak kosztow ukrytych.Istnieje możliwość rat według Państwa potrzeb i możliwości - więcej informacji na miejscu w biurze.<br>
-		WIRAŻ jest skuteczną opcją,wybierz nasze szkolenia,przekonaj się,że posiadamy wszystko,co jest Ci niezbędne,żeby posiadac prawo jazdy kat C i CE.<br>
+		Cena.Kształtujemy ceną w taki sposob,aby była ona konkurencyjna i atrakcyjna na rynku.<br>
+		Cena może się róznic w ciągu roku - czynnik sezonowy, ceny paliw itp.<br>
+		Cena jest kwestią do negocjacji i podawana jest Klientowi przed rozpoczęciem kursu.<br>
+		Brak kosztow ukrytych. Istnieje możliwość rat według Państwa potrzeb i możliwości - więcej informacji na miejscu w biurze.<br>
+		WIRAŻ jest skuteczną opcją, wybierz nasze szkolenia, przekonaj się, że posiadamy wszystko,co jest Ci niezbędne, żeby posiadac prawo jazdy kat C i CE.<br>
 		Zapraszam do skontaktowania się z nami i poznanią naszych mocnych stron i możliwości.
         Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
-		Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem
+		Zapraszamy Kursantow z innych szkol, którzy chcieliby zapoznać się z budową auta egzaminacyjnego lub odswieżyć wiedzę przed egzaminem
 		</p>
-		<h4>Przekonaj się,że mamy wszystko,abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
+		<h4>Przekonaj się,że mamy wszystko, abyś przygotowal się i posiadał prawo jazdy na ciężarowe.</h4><br>
 		 
 	</div>
 	<div class="col-md-6" id="cena">
@@ -120,9 +131,9 @@ Jakie warunki formalne na kat C?
 	<div class="col-md-6" id="kontakt">
     <h4>Chcę się zapisać na kurs kategorii C w Nauce Jazdy Wiraz Świdnica</h4>	
    <p>
-   Zapisy trwaja na bieżąco, dołacz do grupy kandydatów na kierowców.Postaw śmiałe kroki,zyskaj dokument dający ciekawą pracę.
+   Zapisy trwaja na bieżąco, dołacz do grupy kandydatów na kierowców. Postaw śmiałe kroki,zyskaj dokument dający ciekawą pracę.
    Oferujemy szybkie terminy przeprowadzenia kursow i wykonania jazd doszkalających przed egzaminem.<br>
-   Zapraszamy Kursantow z innych szkol,ktorzy chcieliby zapoznać się z budowa auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem.
+   Zapraszamy Kursantow z innych szkol, którzy chcieliby zapoznać się z budową auta egzaminacyjnego lub odswiezyć wiedze przed egzaminem.
    <br></p>
 	 <h5>Wiraż Świdnica to wysokiej klasy szkolenia na kategorie ciężarowe.</h5>
 	 <h4>Jeśli jeszcze się nie zdecydowałeś i masz pytania zadzwoń tel: 691 806 913</h4>

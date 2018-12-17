@@ -109,24 +109,22 @@
           </p>
         <h4>Cena kursu kategorii A2</h4>
         <p>
-          <b>Na cenę wplywa kilka czynników:</b> miedzy innymi ceny paliw, liczba chętnych, termin - czas trwania szkolenia(kurs expressowy jest droższy), a także w top sezonie - ścisłe lato cena może być wyższa.<b>Jednak nie jest to regułą.</b>
-          Zatem nie ma jednej stalej ceny i może sie zmienic przed rozpoczeciem kursu, zatem warto dzwonić i pytać o ceny kursów.Jednak <b>GWARANTUJEMY</b>,ze cena
+          <b>Na cenę wplywa kilka czynników:</b> miedzy innymi ceny paliw, liczba chętnych, termin - czas trwania szkolenia(kurs expressowy jest droższy), a także w top sezonie - ścisłe lato cena może być wyższa. <b>Jednak nie jest to regułą.</b>
+          Zatem nie ma jednej stalej ceny i może sie zmienic przed rozpoczeciem kursu, zatem warto dzwonić i pytać o ceny kursów. Jednak <b>GWARANTUJEMY</b>, że cena
           pozostanie stala w czasie trwania kursu, cena twojego kursu nie zmienia sie po zapisaniu sie na kurs.
-          <b>Mozesz liczyć na dodatkowy GRATIS od Naszej szkoly jazdy:</b>
+          <b>Możesz liczyć na dodatkowy GRATIS od Naszej szkoly jazdy:</b>
           <ul>
            <li>Jeśli byłes naszym Kursantem innej kategorii - lojalni Klienci , dorzucamy 1 godz jazdy GRATIS</li>
            <li>Jeśli na kurs dowolnej kategorii przyprowadzisz drugą osobę, dorzucamy 1 godz jazdy GRATIS dla Ciebie</li>
           </ul>
-          A co jesli spełniasz oba warunki?? - mozesz dostac 2godz jazdy gratis lub przekazac 1godz osobie,ktorą przyprowadziles ze soba np. dziewczyna , siostra , kolega.
+          A co jesli spełniasz oba warunki?? - mozesz dostac 2godz jazdy gratis lub przekazac 1godz osobie, którą przyprowadziłes ze soba np. dziewczyna , siostra , kolega.
           <div class="alert alert-success">
             <b>Jedno jest PEWNE, cena jest stala w czasie kursu,zatem masz pewnosc,że kurs ukonczysz w cenie i
               warunkach,jakie zostaly Ci zaproponowana przed rozpoczeciem.Brak kosztów ukrytych i pułapek.
             </b>
           </div>
           <p>
-            Istotne jest,aby kurs wykonac w okresie 6 miesiecy od daty zapisu na kurs i zachowac stala cene
-            zaproponowana
-            przed rozpoczeciem.
+            Istotne jest, aby kurs wykonac w okresie 6 miesiecy od daty zapisu na kurs i zachowac stala cene zaproponowana przed rozpoczeciem.
           </p>
       </div>
       <!--<div class="row">-->

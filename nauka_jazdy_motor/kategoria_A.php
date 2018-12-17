@@ -52,7 +52,7 @@
    <div class="col-md-6" id="opisKategorii">
     <h4>Prawo jazdy na motor kategorii A Świdnica, Strzegom, Dzierżoniów, Bielawa.<br> 
       Motocykle pojemności powyżej 600cm3</h4>
-    <p>Prawo jazdy na motor kategoria A pozwala Ci prowadzić motor (pojazd jednośladowy lub z wózkiem bocznym ) , a także motor z przyczepą o masie masie własnej mniejszej niż motocykl i 100kg. W tej kategorii posiadamy dwa motocykle na kat A.</p>
+    <p>Prawo jazdy na motor kategoria A pozwala Ci prowadzić motor (pojazd jednośladowy lub z wózkiem bocznym ) , a także motor z przyczepą o masie własnej mniejszej niż motocykl i 100kg. W tej kategorii posiadamy dwa motocykle na kat A.</p>
   <div class="alert alert-danger" role="alert">
   Yamaha MT-07 689cm3 ABS jak egzaminacyjna WORD Wałbrzych i Wroclaw. Idealny dla kobiet - motocykl lżejszy i niższe siodło.
 </div>
@@ -84,8 +84,9 @@ Masa: 205 kg
    </div>
    <div class="col-md-6" id="opisKategorii">
      <h4>Pierwsi i jedyni w okolicy szkolimy na Yamaha MT07 na kategorię A. Motocykl jak w WORD Wałbrzych.</h4>
-     <img src="../images/MT07_Fotor1.jpg" alt="nauka jazdy kategoria A motor Swidnica,Dzierzoniow,Bielawa,Strzegom" style="width:80%;height:300px;">
-     <br><h4>Motocykl kategorii A. Yamaha XJ6 ABS, jak egzaminacyjna WORD Wałbrzych</h4>
+     <img src="../images/MT07_Fotor1.jpg" alt="nauka jazdy kategoria A motor Swidnica,Dzierzoniow,Bielawa,Strzegom" style="width:80%;height:300px;"><br>
+     <br><h4>Drugi Motocykl kategorii A. Yamaha XJ6 ABS, jak egzaminacyjna WORD Wałbrzych</h4>
+     <br>
      <img src="../images/naukamotor1.jpg" alt="nauka jazdy kategoria A Swidnica,Dzierzoniow,Bielawa,Strzegom" style="width:80%;height:300px;">
    </div>
  </div>
@@ -124,19 +125,20 @@ Masa: 205 kg
         <h4>Ile trwa kurs prawo jazdy kategorii A?</h4>
         <p>Szkolenie teoretyczne, tutaj jest 20godzin, ale jeśli czujesz się na siłach do egzaminu teoretycznego możesz przystapić sam, bez szkolenia teoretycznego w w Naszej Szkole Jazdy. Co wiecej...jeśli posiadasz kategorię A1 lub A2, to egzamin teoretyczny Cię nie obowiązuje.<br>
           Jednak to, co elektryzuje kursantów najbardziej, to szkolenie praktyczne. W ramach szkolenia praktycznego zajęcia prowadzimy na motocyklach Yamaha. <b>Jako pierwsi w Świdnicy i okolicy dla Kursantów mamy Yamaha MT-07 oraz Yamaha XJ6 </b> - są to maszyny <b>IDENTYCZNE</b> jak w <b>WORD Wałbrzych</b>, gdzie najprawdopodobniej będzieci Państwo zdawać na prawo jazdy. <b>Zatem jako jedyni w okolicy dajemy wybór motocykla na kategoria A </b>. Praktyka to zajęcia na placu manewrowym ul Inżynierska 6, zajezdnia MPK Świdnica. Plac to głównie manewry na rownówage, technikę prowadzenia. Chyba jako jedyni w Świdnicy posiadamy sprzęt do pomiaru prędkości, zatem wykonując zadania: slalom szybki i omijanie przeszkody mierzymy prędkość na specjalnych urządzeniach. Tak samo będziesz "zmierzony" na egzaminie na prawo jazdy. </p>
-        <h4>Jaka jest cena kurs prawo jazdy kategorii A?</h4>
+        <h4>Jaka jest cena kursu prawo jazdy kategorii A?</h4>
         <h4>Czy możliwa jest płatność w ratach??</h4>
         <p>
           Na cena wpływa kilka czynnikow, miedzy innymi ceny paliw, liczba chętnych,termin wykonania szkolenia(kurs "expressowy priorytet" jest droższy).
           Zatem brak jest jednej stałej ceny przez cały rok. Warto dzwonić i pytać o ceny. 
           Jednak <b>GWARANTUJEMY</b>,że cena
-          pozostanie stała w czasie trwania kursu. Szanujemy Kursantów i siebie , płacisz tyle, ile było powiedziane przy rozpoczęciu kursu motocyklowego - dostajesz kwit na potwierdznie ceny i daty rejestracji.<br>
+          pozostanie stała w czasie trwania kursu. <b>Szanujemy Kursantów i siebie</b> , płacisz tyle, ile było powiedziane przy rozpoczęciu kursu motocyklowego - dostajesz kwit na potwierdznie ceny i daty rejestracji.<br>
           <b>Możesz liczyć na dodatkowy GRATIS od Naszej szkoly jazdy jeśli spełniasz jeden z warunków:</b>
           <ul>
             <li>byłes naszym Kursantem innej kategorii - lojalni Klienci</li>
             <li>na kurs dowolnej kategorii przyprowadzisz drugą osobę i ona zapisze się na dowolny kurs np. samochodowy, przyczepy, motocykle.</li>
           </ul>
-          <b>Wtedy w cenie kursu dorzucamy 1godz jazdy gratis.A co jesli spełniasz oba warunki?? - możesz dostać 2godz jazdy gratis i jedną z nich przekazać osobie,która przyprowadziłeś ze sobą np. dziewczyna, siostra, brat , kolega , wujek</b>
+          <b>Wtedy w cenie kursu dorzucamy 1godz jazdy gratis. A co jesli spełniasz oba warunki?? - możesz dostać 2godz jazdy gratis i jedną z nich przekazać osobie, która przyprowadziłeś ze sobą np. dziewczyna, siostra, brat , kolega , wujek</b>
+          <br>
           <div class="alert alert-success">
             <b>Jedno jest PEWNE, cena jest stala w czasie kursu.Brak kosztów ukrytych i pułapek.
             </b>

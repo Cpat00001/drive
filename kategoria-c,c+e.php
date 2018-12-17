@@ -37,7 +37,7 @@
 		ciężarowe CE - z przyczepą lub szkolenie na przewóz rzeczy i osób.
 		Zapraszamy</h4>
 		<h4></h4>
-		<h4 style="line-height:1.5;">Zapraszamy na pełne kursy prawa jazdy kategorii C i CE , ale także osoby, które uczyły się w innych szkołach, a u nas chcieliby doszkolić się, dokupić kilka godzin lub przekonać o poziomie naszych szkoleń.<br>Przekonaj się, że mamy WSZYSTKO,abyś zdał na prawo jazdy kategori C i CE. Zapraszamy</h4>
+		<h4 style="line-height:1.5;">Zapraszamy na pełne kursy prawa jazdy kategorii C i CE , ale także osoby, które uczyły się w innych szkołach, a u nas chcieliby doszkolić się, dokupić kilka godzin lub przekonać się o poziomie naszych szkoleń.<br>Przekonaj się, że mamy WSZYSTKO, abyś zdał na prawo jazdy kategori C i CE. Zapraszamy</h4>
 		</div>
 	 </div>
 </div>

@@ -59,9 +59,9 @@ Czterokołowiec lekki (np. quad) – jest to pojazd, którego masa własna nie p
 
 
 <div class="alert alert-warning">
-  <p>Opis kategoria AM: motorower ROMET ZXT50:</p>
+  <h5>Dla pasjonatów parametrów i techniki. Opis ROMET ZXT50:</h5>
 </div>
-<h5>Dla pasjonatów parametrów i techniki. Opis ROMET ZXT50:</h5>
+
 
 <p>Silnik : jednocylindorwy, czterosuwowy , OHC, chłodzony powietrzem</br>
 Pojemność: 49cm3</br> 
@@ -116,20 +116,20 @@ Dostarczenie dokumentów w formie elektronicznej lub osobiści. Po przedłożeni
     <div class="col-md-6" id="cena">
       <h4>Ile trwa kurs prawa jazdy na kategorią AM , motorowery, skutery ??</h4>
       <p>Na kurs składa się szkolenie teoretyczne i praktyczne.
-Teoria ,zajęcia to 10 x 45 minut zajęć .
-Jednak możesz samodzielnie przygotowywać się do egzaminu z przepisów ruchu drogowego – tzw. Teoria. Zwolniony jesteś wtedy z egzaminu wewnętrznego w Szkole Jazdy i tylko zdajesz egzamin w WORD. Nie musisz chodzić do nas na teorię, nic na siłe, trudno zmuszać wbrew woli.</br>
+Teoria, zajęcia to 10 x 45 minut.
+Jednak możesz samodzielnie przygotowywać się do egzaminu z przepisów ruchu drogowego – tzw. Teoria. Zwolniony jesteś wtedy z egzaminu wewnętrznego w Szkole Jazdy Wiraż i tylko zdajesz egzamin w WORD. Nie musisz chodzić do nas na teorię, nic na siłe, trudno zmuszać wbrew woli.</br>
 
 <b>Zajęcia praktyczne , jazda motorowerem to 10 x 60minut.</b> 
 Tutaj wykonujesz zadania na placu, obsługę techniczna i jazda w ruchu miejskim.
 
 <h5>Prawo jazdy kategorii AM Cena kursu.</h5> 
 Nie ma jednej stałej ceny, zależy ona od kilu czynników. Jednak pewne jest, że cena kursu, jaka została Ci zaproponowana  jest ostateczna. Brak  kosztów ukrytych.
-Zadzwoń do nas tel. 691 806 913 i dowiesz się o aktualnej cenie.
+<b>Zadzwoń do nas tel. 691 806 913 i dowiesz się o aktualnej cenie.</b>
 Płatność jest możliwa w ratach w zależności od Twoich możliwości. Zatem możesz płacić np. 3 raty lub więcej rat, jak Ci wygodnie. Jazdy są prowadzone proporcjonalnie do wpłaconych środków.
 </p>
     </div>
     <div class="col-md-6" id="cena">
-       <h4>Mieszkasz w okolicach Świdnicy, nie zawsze jest kto podwieźć lub autobus zawodzi...motorower to rozwiąznie dla Ciebie!</h4>
+       <h4>Mieszkasz w okolicach Świdnicy, brakuje osoby, która podrzuci lub autobus jeździ rzadko...?? motorower to rozwiąznie dla Ciebie!</h4>
       <img src="../images/motorowery_swidnica4.jpg" alt="prawo_jazdy_motorower_swidnica" style="width:100%;height:300px">
     </div>
   </div>
@@ -142,8 +142,8 @@ Płatność jest możliwa w ratach w zależności od Twoich możliwości. Zatem 
       <div class="col-md-4" id="kontakt">
         <div class="alert alert-success">
         <p>Zapisy trwaja na bieżąco, dołacz do naszej grupy szkolących się motocyklistów.<br>
-          <b>Postaw śmiałe kroki,przejdź szkolenie pozwalające zdać na kartę motorowerową.
-            Wyróżniaj się wsród rówieśników,bądź mobilny,poszerzaj horyzonty,odkrywaj tereny Dolnego Śląska.<br>
+          <b>Postaw śmiałe kroki, przejdź szkolenie pozwalające zdać na kartę motorowerową.
+            Wyróżniaj się wsród rówieśników, bądź mobilny, poszerzaj horyzonty, odkrywaj tereny Dolnego Śląska.<br>
             Ci, którzy czekali, już dzisiaj żałują.
           </b>
           Oferujemy szybkie terminy przeprowadzenia kursów i wykonania jazd doszkalających przed egzaminem.<br></p>

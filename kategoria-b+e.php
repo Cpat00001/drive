@@ -53,7 +53,7 @@
     W naszej szkole jazdy dysponujemy przyczepką jednoosiową identyczną jak w WORD Wałbrzych, gdzie
     najprawdopodobniej będzie Państwo zdawać egzamin, choć naturalnie możecie wybrać inny WORD.(decyzja należy do Państwa). Przyczepa jest kryta plandeką, wymiary szerokość x długość jak WORD Wałbrzych. Jako pojazd do przyczepy stosujemy VW Sharan.<br>
     <h4>Egzamin prawo jazdy kategorii BE</h4>
-    Egzamin obejmuje jazde z przyczepa po placu, gdzie nalezy wykonac 4 zadania oraz jazda w ruchu miejskim - minimalny czas trwania jazdy 25minut.
+    Egzamin obejmuje jazdę z przyczepą po placu, gdzie należy wykonać 4 zadania oraz jazda w ruchu miejskim - minimalny czas trwania jazdy 25minut.
    <br><br>
    <div class="alert alert-success">
     Jesli potrzebujesz prawo jazdy na cieższe pojazdy i przyczepy ,zapraszamy na kursy prawa jazdy kategoria C1 + E oraz C+E.
@@ -65,7 +65,7 @@
     <h4>Przyczepa karegorii BE jak egzaminacyjna w WORD Wałbrzych</h4>
     <img src="./images/lawety_przyczepy_kategoriaBE_swidnica_bielawa_dzierzoniow_strzegom.jpg" alt="nauka jazdy kategoria BE" style="width:80%;height:400px;">
     <br><br>
-    <h4>Nauka Jazdy BE w Świdnicy, Strzegomiu, Bielawie i Dzierzoniowie</h4>
+    <h4>Nauka Jazdy BE w Świdnicy, Strzegomiu, Bielawie i Dzierżoniowie</h4>
     </div>
   </div>
  </div>
@@ -76,7 +76,7 @@
       <img src="./images/prawojazdyBE_1.png" alt="prawo jazdy kategoria BE swidnica strzegom dzierzoniow bielawa"
             alt="prawo jazdy kategorii BE swidnica strzegom dzierzoniow bielawa" style="width:70%;height:300px;">
             
-            <h4>Kategoria BE osobowe z przyczepa, różne zabudowy, różne przeznaczenie</h4>
+            <h4>Kategoria BE osobowe z przyczepą, różne zabudowy, różne przeznaczenie, jedna kategoria BE</h4>
     </div>
     <div class="col-md-6" id="warunki">
       <h4> Warunki zapisu na prawo jazdy kategorii BE</h4>
@@ -85,7 +85,7 @@
             <p>Osoba musi posiadać prawo jazdy kategorii B.</p>
           </li>
           <li>
-           <p>badania lekarski/ orzeczenie lekarskie. Od lat współpracujemy z tym samym lekarze, damy Ci kontakt do lekarza, jeśli potrzebujesz.</p>
+           <p>badania lekarskie/ orzeczenie lekarskie. Od lat współpracujemy z tym samym lekarzem, damy Ci kontakt do lekarza, jeśli potrzebujesz.</p>
           </li>
           <li>
             <p>1 fotografia: aktualna, czytelna , 3,5 x 4,5cm</p>
@@ -107,22 +107,20 @@
           <h3>Cena kursu kategoria BE</h3>
           <p>
             Na cenę wpływa kilka czynników, między innymi ceny paliw i ceny uslug.
-            Zatem nie ma jednej stalej ceny w ciągu roku i moze sie zmienić - czynnik sezonowy. Jednak <b>GWARANTUJEMY</b>,że cena pozostanie stala w czasie trwania Twojego kursu, cena kursu nie zmienia sie po zapisaniu sie na kurs. Wydajemy kwit potwierdząjący cenę i datę zapisanie się na kurs i zaczynamy szkolenie.<br>
+            Zatem nie ma jednej stalej ceny w ciągu roku i moze sie zmienić - czynnik sezonowy. Jednak <b>GWARANTUJEMY</b>, że cena pozostanie stała w czasie trwania Twojego kursu, cena kursu nie zmienia sie po zapisaniu sie na kurs. Wydajemy kwit potwierdząjący cenę i datę zapisanie się na kurs i zaczynamy szkolenie.<br>
              Możesz liczyć na dodatkowy <b>GRATIS od Naszej szkoly jazdy</b>, jeśli:<br>
                byłes naszym kursantem innej kategorii w cenie dorzucamy 1godz jazdy gratis - lojalni klienci. <br>
                Możesz otrzymać rownież 1godz jazdy gratis, jesli na kurs dowolnej kategorii przyprowadzisz drugą osobę.</br>
               <b>A co jesli spełniam oba warunki?? </b></br> 
               Wtedy możesz dostać 2godz jazdy gratis lub przekazać 1godz osobie, którą przyprowadziłes ze sobą.
             <div class="alert alert-success">
-            <b>Jedno jest PEWNE, cena jest stała w czasie kursu, zatem masz pewność, że kurs ukończysz w cenie i warunkach, jakie zostały Ci zaproponowana przed rozpoczeciem.
+            <b>Jedno jest PEWNE, cena jest stała w czasie kursu, zatem masz pewność, że kurs ukończysz w cenie i warunkach, jakie zostały Ci zaproponowana przed rozpoczeciem. Kurs należy wykonać w 6 miesięcy.
           </b>
           </div>
-          <p>Istotne jest, aby kurs wykonać w okresie 6 miesiecy od daty zapisu na kurs i zachować stała cenę zaproponowana przed rozpoczeciem. Kursową liczbe godzin spokojnie wyjeździsz w zdecydowanie krótszym czasie.</p>
-          
-        </p>
+         
       </div>
       <div class="col-md-6" id="cena">
-        <h4>Cena kursu prawo jazdy jest stała w czasie trwania kursu.</h4>
+        <h4>Cena kursu prawo jazdy jest stała w czasie trwania kursu - kurs należy wykonać w 6 miesięcy.</h4>
         <img src="./images/kategoria_BE_przyczepa_campingowa_Swidnica_Dzierzoniow_Strzegom_Bielawa.jpg" alt="prawo jazdy kategoria BE Dzierozniow Bielawa Strzegom Strzelin"
           style="width:70%;height:300px;">
       </div>
